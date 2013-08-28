@@ -1,0 +1,17 @@
+  CREATE TABLE MF0150 
+   (
+   	id int primary key,	
+   	MAOSTP varchar(3), 
+	MAPA8 int, 
+	MAAN8 int, 
+	MADSS7 int, 
+	MABEFD int(6), 
+	MAEEFD int(6), 
+	MARMK varchar(30), 
+	MAUSER varchar(10), 
+	MAUPMJ int(6), 
+	MAPID varchar(10), 
+	MAJOBN varchar(10), 
+	MAUPMT int, 
+	MASYNCS int
+   ) 

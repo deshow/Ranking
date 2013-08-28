@@ -1,0 +1,31 @@
+.grid-view tr{ 
+	cursor: pointer; 
+}
+
+.orgbackground{
+	background-color:#e8f9f4;
+}
+.newbackground{
+	background-color:#f3efef;
+}
+.infobackground{
+	background-color:#9dd9d8;
+}
+.container-fluid{
+	border-top-left-radius:1em;
+	border-top-right-radius:1em;
+	border-bottom-left-radius:1em;
+	border-bottom-right-radius:1em;
+}
+td{
+	vertical-align:top;
+}
+td top{
+	vertical-align:top;
+}
+.red{
+	color: red;	
+}
+
+.searchBox{
+}

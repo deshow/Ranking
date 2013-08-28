@@ -1,0 +1,279 @@
+2013/01/15 14:30:12 [trace] [system.db.CDbConnection] Opening DB connection
+2013/01/15 14:30:13 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `user`
+2013/01/15 14:30:13 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `user`
+2013/01/15 14:30:13 [trace] [system.db.ar.CActiveRecord] User.find()
+2013/01/15 14:30:13 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `user` `t` WHERE id=:u and pwd=:p LIMIT 1
+2013/01/15 14:30:38 [trace] [system.db.CDbConnection] Opening DB connection
+2013/01/15 14:30:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `user`
+2013/01/15 14:30:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `user`
+2013/01/15 14:30:38 [trace] [system.db.ar.CActiveRecord] User.find()
+2013/01/15 14:30:38 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `user` `t` WHERE id=:u and pwd=:p LIMIT 1
+2013/01/15 14:30:41 [trace] [system.db.CDbConnection] Opening DB connection
+2013/01/15 14:30:41 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `testerinfo`
+2013/01/15 14:30:41 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `testerinfo`
+2013/01/15 14:30:41 [trace] [system.db.ar.CActiveRecord] TesterInfo.count()
+2013/01/15 14:30:41 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE (dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out)
+2013/01/15 14:30:41 [trace] [system.db.ar.CActiveRecord] TesterInfo.findAll()
+2013/01/15 14:30:41 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id`, `t`.`dt_in`, `t`.`dt_out`, `t`.`dt_out1`, `t`.`mm_out`, `t`.`mm_out1`, `t`.`fg_register`, `t`.`fg_job`, `t`.`fg_contract`, `t`.`yy_sduty`, `t`.`rmk`, `t`.`fg_trn`, `t`.`fg_rsd`, `t`.`fg_sem`, `t`.`fg_qes`, `t`.`fg_ebina`, `t`.`dt_trn`, `t`.`dt_rsd`, `t`.`dt_sem`, `t`.`dt_qes`, `t`.`mm_trn`, `t`.`mm_rsd`, `t`.`mm_sem`, `t`.`mm_qes`, `t`.`fg_ins`, `t`.`mm_ins`, `t`.`dt_ins`, `t`.`dt_ins_end`, `t`.`dt_ins1`, `t`.`dt_ins_end1`, `t`.`mm_ins_end`, `t`.`mm_ins_end1` FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE (dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out) LIMIT 10
+2013/01/15 14:31:10 [trace] [system.db.CDbConnection] Opening DB connection
+2013/01/15 14:31:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `user`
+2013/01/15 14:31:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `user`
+2013/01/15 14:31:10 [trace] [system.db.ar.CActiveRecord] User.find()
+2013/01/15 14:31:10 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `user` `t` WHERE id=:u and pwd=:p LIMIT 1
+2013/01/15 14:31:12 [trace] [system.db.CDbConnection] Opening DB connection
+2013/01/15 14:31:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tester`
+2013/01/15 14:31:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tester`
+2013/01/15 14:31:12 [trace] [system.db.ar.CActiveRecord] Tester.count()
+2013/01/15 14:31:12 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tester` `t`
+2013/01/15 14:31:12 [trace] [system.db.ar.CActiveRecord] Tester.findAll()
+2013/01/15 14:31:12 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tester` `t` LIMIT 10
+2013/01/15 14:31:14 [trace] [system.db.CDbConnection] Opening DB connection
+2013/01/15 14:31:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `testerinfo`
+2013/01/15 14:31:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `testerinfo`
+2013/01/15 14:31:14 [trace] [system.db.ar.CActiveRecord] TesterInfo.count()
+2013/01/15 14:31:14 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE (dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out)
+2013/01/15 14:31:14 [trace] [system.db.ar.CActiveRecord] TesterInfo.findAll()
+2013/01/15 14:31:14 [trace] [system.db.CDbCommand] Querying SQL: SELECT `t`.`id`, `t`.`dt_in`, `t`.`dt_out`, `t`.`dt_out1`, `t`.`mm_out`, `t`.`mm_out1`, `t`.`fg_register`, `t`.`fg_job`, `t`.`fg_contract`, `t`.`yy_sduty`, `t`.`rmk`, `t`.`fg_trn`, `t`.`fg_rsd`, `t`.`fg_sem`, `t`.`fg_qes`, `t`.`fg_ebina`, `t`.`dt_trn`, `t`.`dt_rsd`, `t`.`dt_sem`, `t`.`dt_qes`, `t`.`mm_trn`, `t`.`mm_rsd`, `t`.`mm_sem`, `t`.`mm_qes`, `t`.`fg_ins`, `t`.`mm_ins`, `t`.`dt_ins`, `t`.`dt_ins_end`, `t`.`dt_ins1`, `t`.`dt_ins_end1`, `t`.`mm_ins_end`, `t`.`mm_ins_end1` FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE (dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out) LIMIT 10
+2013/01/15 14:32:29 [trace] [system.db.CDbConnection] Opening DB connection
+2013/01/15 14:32:29 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `testerinfo`
+2013/01/15 14:32:29 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `testerinfo`
+2013/01/15 14:32:29 [trace] [system.db.ar.CActiveRecord] TesterInfo.count()
+2013/01/15 14:32:29 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE (dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out)
+2013/01/15 14:32:29 [trace] [system.db.ar.CActiveRecord] TesterInfo.findAll()
+2013/01/15 14:32:29 [trace] [system.db.CDbCommand] Querying SQL: SELECT t.*,b.nm FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE (dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out) LIMIT 10
+2013/01/15 14:32:33 [trace] [system.db.CDbConnection] Opening DB connection
+2013/01/15 14:32:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `testerinfo`
+2013/01/15 14:32:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `testerinfo`
+2013/01/15 14:32:33 [trace] [system.db.ar.CActiveRecord] TesterInfo.count()
+2013/01/15 14:32:33 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE (dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out)
+2013/01/15 14:32:33 [trace] [system.db.ar.CActiveRecord] TesterInfo.findAll()
+2013/01/15 14:32:33 [trace] [system.db.CDbCommand] Querying SQL: SELECT t.*,b.nm FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE (dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out) LIMIT 10
+2013/01/15 14:32:56 [trace] [system.db.CDbConnection] Opening DB connection
+2013/01/15 14:32:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `testerinfo`
+2013/01/15 14:32:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `testerinfo`
+2013/01/15 14:32:56 [trace] [system.db.ar.CActiveRecord] TesterInfo.count()
+2013/01/15 14:32:56 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE (dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out)
+2013/01/15 14:32:56 [trace] [system.db.ar.CActiveRecord] TesterInfo.findAll()
+2013/01/15 14:32:56 [trace] [system.db.CDbCommand] Querying SQL: SELECT t.*,b.nm FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE (dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out) LIMIT 10
+2013/01/15 14:32:58 [trace] [system.db.CDbConnection] Opening DB connection
+2013/01/15 14:32:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `testerinfo`
+2013/01/15 14:32:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `testerinfo`
+2013/01/15 14:32:58 [trace] [system.db.ar.CActiveRecord] TesterInfo.count()
+2013/01/15 14:32:58 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE (dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out)
+2013/01/15 14:32:58 [trace] [system.db.ar.CActiveRecord] TesterInfo.findAll()
+2013/01/15 14:32:58 [trace] [system.db.CDbCommand] Querying SQL: SELECT t.*,b.nm FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE (dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out) LIMIT 10
+2013/01/15 14:33:00 [trace] [system.db.CDbConnection] Opening DB connection
+2013/01/15 14:33:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `testerinfo`
+2013/01/15 14:33:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `testerinfo`
+2013/01/15 14:33:00 [trace] [system.db.ar.CActiveRecord] TesterInfo.count()
+2013/01/15 14:33:00 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE (dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out)
+2013/01/15 14:33:00 [trace] [system.db.ar.CActiveRecord] TesterInfo.findAll()
+2013/01/15 14:33:00 [trace] [system.db.CDbCommand] Querying SQL: SELECT t.*,b.nm FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE (dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out) LIMIT 10
+2013/01/15 14:33:09 [trace] [system.db.CDbConnection] Opening DB connection
+2013/01/15 14:33:09 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `testerinfo`
+2013/01/15 14:33:09 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `testerinfo`
+2013/01/15 14:33:45 [trace] [system.db.ar.CActiveRecord] TesterInfo.count()
+2013/01/15 14:33:45 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE (dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out)
+2013/01/15 14:33:45 [trace] [system.db.ar.CActiveRecord] TesterInfo.findAll()
+2013/01/15 14:33:45 [trace] [system.db.CDbCommand] Querying SQL: SELECT t.*,b.nm FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE (dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out) LIMIT 10
+2013/01/15 14:34:15 [trace] [system.db.CDbConnection] Opening DB connection
+2013/01/15 14:34:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `testerinfo`
+2013/01/15 14:34:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `testerinfo`
+2013/01/15 14:34:17 [trace] [system.db.ar.CActiveRecord] TesterInfo.count()
+2013/01/15 14:34:17 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE ((dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out)) AND (dt_in LIKE :ycp0)
+2013/01/15 14:34:17 [trace] [system.db.ar.CActiveRecord] TesterInfo.findAll()
+2013/01/15 14:34:17 [trace] [system.db.CDbCommand] Querying SQL: SELECT t.*,b.nm FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE ((dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out)) AND (dt_in LIKE :ycp0) LIMIT 10
+2013/01/15 14:34:24 [trace] [system.db.CDbConnection] Opening DB connection
+2013/01/15 14:34:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `testerinfo`
+2013/01/15 14:34:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `testerinfo`
+2013/01/15 14:34:26 [trace] [system.db.ar.CActiveRecord] TesterInfo.count()
+2013/01/15 14:34:26 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE ((dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out)) AND (dt_in LIKE :ycp0)
+2013/01/15 14:34:26 [trace] [system.db.ar.CActiveRecord] TesterInfo.findAll()
+2013/01/15 14:34:26 [trace] [system.db.CDbCommand] Querying SQL: SELECT t.*,b.nm FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE ((dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out)) AND (dt_in LIKE :ycp0) LIMIT 10
+2013/01/15 14:34:30 [trace] [system.db.CDbConnection] Opening DB connection
+2013/01/15 14:34:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `testerinfo`
+2013/01/15 14:34:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `testerinfo`
+2013/01/15 14:34:34 [trace] [system.db.ar.CActiveRecord] TesterInfo.count()
+2013/01/15 14:34:34 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE (dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out)
+2013/01/15 14:34:34 [trace] [system.db.ar.CActiveRecord] TesterInfo.findAll()
+2013/01/15 14:34:34 [trace] [system.db.CDbCommand] Querying SQL: SELECT t.*,b.nm FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE (dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out) LIMIT 10
+2013/01/15 14:35:03 [trace] [system.db.CDbConnection] Opening DB connection
+2013/01/15 14:35:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `testerinfo`
+2013/01/15 14:35:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `testerinfo`
+2013/01/15 14:35:05 [trace] [system.db.ar.CActiveRecord] TesterInfo.count()
+2013/01/15 14:35:05 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE (dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out)
+2013/01/15 14:35:05 [trace] [system.db.ar.CActiveRecord] TesterInfo.findAll()
+2013/01/15 14:35:05 [trace] [system.db.CDbCommand] Querying SQL: SELECT t.*,b.nm FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE (dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out) LIMIT 10
+2013/01/15 14:35:08 [trace] [system.db.CDbConnection] Opening DB connection
+2013/01/15 14:35:08 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `testerinfo`
+2013/01/15 14:35:08 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `testerinfo`
+2013/01/15 14:35:10 [trace] [system.db.ar.CActiveRecord] TesterInfo.count()
+2013/01/15 14:35:10 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE (dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out)
+2013/01/15 14:35:10 [trace] [system.db.ar.CActiveRecord] TesterInfo.findAll()
+2013/01/15 14:35:10 [trace] [system.db.CDbCommand] Querying SQL: SELECT t.*,b.nm FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE (dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out) LIMIT 10
+2013/01/15 14:39:31 [trace] [system.db.CDbConnection] Opening DB connection
+2013/01/15 14:39:31 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `testerinfo`
+2013/01/15 14:39:31 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `testerinfo`
+2013/01/15 14:39:36 [trace] [system.db.ar.CActiveRecord] TesterInfo.count()
+2013/01/15 14:39:36 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE (dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out)
+2013/01/15 14:39:36 [trace] [system.db.ar.CActiveRecord] TesterInfo.findAll()
+2013/01/15 14:39:36 [trace] [system.db.CDbCommand] Querying SQL: SELECT t.*,b.nm FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE (dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out) LIMIT 10
+2013/01/15 14:39:55 [trace] [system.db.CDbConnection] Opening DB connection
+2013/01/15 14:39:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `testerinfo`
+2013/01/15 14:39:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `testerinfo`
+2013/01/15 14:39:55 [trace] [system.db.ar.CActiveRecord] TesterInfo.count()
+2013/01/15 14:39:55 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE (dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out)
+2013/01/15 14:39:55 [trace] [system.db.ar.CActiveRecord] TesterInfo.findAll()
+2013/01/15 14:39:55 [trace] [system.db.CDbCommand] Querying SQL: SELECT t.*,b.nm FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE (dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out) LIMIT 10
+2013/01/15 14:40:00 [trace] [system.db.CDbConnection] Opening DB connection
+2013/01/15 14:40:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `testerinfo`
+2013/01/15 14:40:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `testerinfo`
+2013/01/15 14:40:00 [trace] [system.db.ar.CActiveRecord] TesterInfo.count()
+2013/01/15 14:40:00 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE ((dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out)) AND (id=:ycp0)
+2013/01/15 14:40:00 [error] [system.db.CDbCommand] CDbCommand::fetchColumn() がSQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in where clause is ambiguousで失敗しました。実行されたSQL文は: SELECT COUNT(*) FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE ((dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out)) AND (id=:ycp0)
+2013/01/15 14:40:11 [trace] [system.db.CDbConnection] Opening DB connection
+2013/01/15 14:40:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `testerinfo`
+2013/01/15 14:40:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `testerinfo`
+2013/01/15 14:40:11 [trace] [system.db.ar.CActiveRecord] TesterInfo.count()
+2013/01/15 14:40:11 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE ((dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out)) AND (id=:ycp0)
+2013/01/15 14:40:11 [error] [system.db.CDbCommand] CDbCommand::fetchColumn() がSQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in where clause is ambiguousで失敗しました。実行されたSQL文は: SELECT COUNT(*) FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE ((dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out)) AND (id=:ycp0)
+2013/01/15 14:40:36 [trace] [system.db.CDbConnection] Opening DB connection
+2013/01/15 14:40:36 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `testerinfo`
+2013/01/15 14:40:36 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `testerinfo`
+2013/01/15 14:40:36 [trace] [system.db.ar.CActiveRecord] TesterInfo.count()
+2013/01/15 14:40:36 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE (dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out)
+2013/01/15 14:40:36 [trace] [system.db.ar.CActiveRecord] TesterInfo.findAll()
+2013/01/15 14:40:36 [trace] [system.db.CDbCommand] Querying SQL: SELECT t.*,b.nm FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE (dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out) LIMIT 10
+2013/01/15 14:40:40 [trace] [system.db.CDbConnection] Opening DB connection
+2013/01/15 14:40:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `testerinfo`
+2013/01/15 14:40:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `testerinfo`
+2013/01/15 14:40:40 [trace] [system.db.ar.CActiveRecord] TesterInfo.count()
+2013/01/15 14:40:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE ((dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out)) AND (id=:ycp0)
+2013/01/15 14:40:40 [error] [system.db.CDbCommand] CDbCommand::fetchColumn() がSQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in where clause is ambiguousで失敗しました。実行されたSQL文は: SELECT COUNT(*) FROM `testerinfo` `t` JOIN TESTER b on b.id = t.id WHERE ((dt_in is not null and (dt_out is not null or dt_out1 is not null)) or(
+				dt_out1 is not null and dt_out1 > dt_out)) AND (id=:ycp0)
+2013/01/22 15:14:28 [trace] [system.db.CDbConnection] Opening DB connection
+2013/01/22 15:14:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `user`
+2013/01/22 15:14:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `user`
+2013/01/22 15:14:28 [trace] [system.db.ar.CActiveRecord] User.find()
+2013/01/22 15:14:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `user` `t` WHERE id=:u and pwd=:p LIMIT 1
+2013/01/22 15:14:30 [trace] [system.db.CDbConnection] Opening DB connection
+2013/01/22 15:14:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tester`
+2013/01/22 15:14:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tester`
+2013/01/22 15:14:30 [trace] [system.db.ar.CActiveRecord] Tester.findAll()
+2013/01/22 15:14:30 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tester` `t`
+2013/01/22 15:14:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `work`
+2013/01/22 15:14:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `work`
+2013/01/22 15:14:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `schedule`
+2013/01/22 15:14:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `schedule`
+2013/01/22 15:14:30 [trace] [system.db.ar.CActiveRecord] Tester.count()
+2013/01/22 15:14:30 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tester` `t`
+2013/01/22 15:14:30 [trace] [system.db.ar.CActiveRecord] Tester.findAll()
+2013/01/22 15:14:30 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tester` `t` LIMIT 10
+2013/01/22 15:14:30 [trace] [system.db.ar.CActiveRecord] Work.count()
+2013/01/22 15:14:30 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `work` `t`
+2013/01/22 15:14:30 [trace] [system.db.ar.CActiveRecord] Work.findAll()
+2013/01/22 15:14:30 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `work` `t` LIMIT 10
+2013/01/22 15:14:30 [trace] [system.db.ar.CActiveRecord] Schedule.count()
+2013/01/22 15:14:30 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `schedule` `t`
+2013/01/22 15:14:30 [trace] [system.db.ar.CActiveRecord] Schedule.findAll()
+2013/01/22 15:14:30 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `schedule` `t` LIMIT 10
+2013/01/22 15:14:32 [trace] [system.db.CDbConnection] Opening DB connection
+2013/01/22 15:14:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tester`
+2013/01/22 15:14:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tester`
+2013/01/22 15:14:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `testerinfo`
+2013/01/22 15:14:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `testerinfo`
+2013/01/22 15:14:32 [trace] [system.db.ar.CActiveRecord] Tester.findByPk()
+2013/01/22 15:14:32 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tester` `t` WHERE `t`.`id`=15951 LIMIT 1
+2013/01/22 15:14:32 [trace] [system.db.ar.CActiveRecord] TesterInfo.findByPk()
+2013/01/22 15:14:32 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `testerinfo` `t` WHERE `t`.`id`=15951 LIMIT 1
+2013/01/22 15:14:32 [trace] [system.db.ar.CActiveRecord] Tester.findAll()
+2013/01/22 15:14:32 [trace] [system.db.CDbCommand] Querying SQL: SELECT id FROM `tester` `t`
+2013/01/22 15:14:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `m_sex`
+2013/01/22 15:14:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `m_sex`
+2013/01/22 15:14:33 [trace] [system.db.ar.CActiveRecord] MSex.findAll()
+2013/01/22 15:14:33 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `m_sex` `t`
+2013/01/22 15:14:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `m_register`
+2013/01/22 15:14:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `m_register`
+2013/01/22 15:14:33 [trace] [system.db.ar.CActiveRecord] MRegister.findAll()
+2013/01/22 15:14:33 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `m_register` `t`
+2013/01/22 15:14:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `m_contract`
+2013/01/22 15:14:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `m_contract`
+2013/01/22 15:14:33 [trace] [system.db.ar.CActiveRecord] MContract.findAll()
+2013/01/22 15:14:33 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `m_contract` `t`
+2013/01/22 15:14:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `m_job`
+2013/01/22 15:14:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `m_job`
+2013/01/22 15:14:33 [trace] [system.db.ar.CActiveRecord] MJob.findAll()
+2013/01/22 15:14:33 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `m_job` `t`
+2013/01/22 15:14:35 [trace] [system.db.CDbConnection] Opening DB connection
+2013/01/22 15:14:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `playexp`
+2013/01/22 15:14:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `playexp`
+2013/01/22 15:14:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tester`
+2013/01/22 15:14:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tester`
+2013/01/22 15:14:38 [trace] [system.db.ar.CActiveRecord] Tester.findByPk()
+2013/01/22 15:14:38 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tester` `t` WHERE `t`.`id`=15951 LIMIT 1
+2013/01/22 15:14:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `m_title`
+2013/01/22 15:14:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `m_title`
+2013/01/22 15:14:39 [trace] [system.db.ar.CActiveRecord] MTitle.findAll()
+2013/01/22 15:14:39 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `m_title` `t`
+2013/01/22 15:14:39 [trace] [system.db.ar.CActiveRecord] PlayExp.count()
+2013/01/22 15:14:39 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `playexp` `t` WHERE id=:ycp0
+2013/01/22 15:14:39 [trace] [system.db.ar.CActiveRecord] PlayExp.findAll()
+2013/01/22 15:14:39 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `playexp` `t` WHERE id=:ycp0 LIMIT 10
+2013/01/22 15:15:55 [trace] [system.db.CDbConnection] Opening DB connection
+2013/01/22 15:15:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `tester`
+2013/01/22 15:15:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tester`
+2013/01/22 15:15:55 [trace] [system.db.ar.CActiveRecord] Tester.findAll()
+2013/01/22 15:15:55 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tester` `t`
+2013/01/22 15:15:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `work`
+2013/01/22 15:15:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `work`
+2013/01/22 15:15:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `schedule`
+2013/01/22 15:15:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `schedule`
+2013/01/22 15:15:55 [trace] [system.db.ar.CActiveRecord] Tester.count()
+2013/01/22 15:15:55 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `tester` `t`
+2013/01/22 15:15:55 [trace] [system.db.ar.CActiveRecord] Tester.findAll()
+2013/01/22 15:15:55 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `tester` `t` LIMIT 10
+2013/01/22 15:15:55 [trace] [system.db.ar.CActiveRecord] Work.count()
+2013/01/22 15:15:55 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `work` `t`
+2013/01/22 15:15:55 [trace] [system.db.ar.CActiveRecord] Work.findAll()
+2013/01/22 15:15:55 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `work` `t` LIMIT 10
+2013/01/22 15:15:55 [trace] [system.db.ar.CActiveRecord] Schedule.count()
+2013/01/22 15:15:55 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `schedule` `t`
+2013/01/22 15:15:55 [trace] [system.db.ar.CActiveRecord] Schedule.findAll()
+2013/01/22 15:15:55 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `schedule` `t` LIMIT 10

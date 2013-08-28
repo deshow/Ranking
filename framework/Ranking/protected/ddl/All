@@ -1,0 +1,191 @@
+SELECT
+TRIM(F0101.ABAN8) AS 取引先コード
+, TRIM(F0101.ABAC27) AS "取引先分類"
+, 'ImpDmy' AS "取引先分類記述"
+, TRIM(F0101.ABALPH) AS "取引先名"
+, TRIM(F0111.WWMLN1) AS "取引先名（略称）"--lost
+, TRIM(F0101.ABALP1) AS "取引先名（カナ）"
+, TRIM(F0101.ABMCU) AS "自社担当部門"
+, 'ImpDmy' AS "自社担当部門記述"
+, TRIM(F0150.MAPA8) AS "親取引先"--lost
+, 'ImpDmy' AS "親取引先記述"
+, TRIM(F0101.ABAN81) AS "ゲーム親取引先"
+, 'ImpDmy' AS "ゲーム親取引先記述"
+, TRIM(F0101.ABAN82) AS "ゲーム集約取引先"
+, 'ImpDmy' AS "ゲーム集約取引先記述"
+, TRIM(F0101.ABTICKER) AS "会社"
+, 'ImpDmy' AS "会社記述"
+, TRIM(F0101.ABAT1) AS "検索タイプ"
+, 'ImpDmy' AS "検索タイプ記述"
+, TRIM(F0101.ABAC28) AS "取引先宛名敬称"
+, 'ImpDmy' AS "取引先宛名敬称記述"
+, 'ImpDmy' AS "雑口"
+, 'ImpDmy' AS "雑口記述"
+, TRIM(F0101.ABAC01) AS "エリア"
+, 'ImpDmy' AS "エリア記述"
+, TRIM(F0101.ABAC02) AS "関係会社区分"
+, 'ImpDmy' AS "関係会社区分記述"
+, TRIM(F0101.ABAC03) AS "資本金"
+, 'ImpDmy' AS "資本金記述"
+, 'ImpDmy' AS "残高確認対象取引先"
+, 'ImpDmy' AS "残高確認対象取引先記述"
+, 'ImpDmy' AS "連結子会社区分"
+, 'ImpDmy' AS "連結子会社区分記述"
+, TRIM(F0111.WWMLNM) AS "取引先部門名称"
+, TRIM(F0111.WWATTL) AS "取引先担当者名"
+, TRIM(F0111.WWSLNM) AS "取引先担当者役職名"
+, 'ImpDmy' AS "仕入先区分"
+, 'ImpDmy' AS "得意先区分"
+, TRIM(F0116.ALCTR) AS "国"
+, 'ImpDmy' AS "国記述"
+, TRIM(F0116.ALADDZ) AS "郵便番号"
+, TRIM(F0116.ALADD1) AS "住所1"
+, TRIM(F0116.ALADD2) AS "住所2"
+, TRIM(F0116.ALADD3) AS "住所3"
+, TRIM(F0115TEL.WPPH1) AS "電話番号"
+, TRIM(F0115FAX.WPPH1) AS "FAX番号"
+, TRIM(F01151.EAEMAL) AS "E-MAILアドレス"
+, TRIM(F0101.ABAN83) AS "得意先担当者"
+, 'ImpDmy' AS "得意先担当者コード記述"
+, TRIM(F03012.AICRCD) AS "得意先通貨"
+, TRIM(F0101.ABAC22) AS "得意先分類コード1"
+, 'ImpDmy' AS "得意先分類コード1記述"
+, TRIM(F0101.ABAC23) AS "得意先分類コード2"
+, 'ImpDmy' AS "得意先分類コード2記述"
+, TRIM(F0101.ABAC24) AS "得意先分類コード3"
+, 'ImpDmy' AS "得意先分類コード3記述"
+, TRIM(F0101.ABAC25) AS "得意先分類コード4"
+, 'ImpDmy' AS "得意先分類コード4記述"
+, TRIM(F0101.ABAC26) AS "得意先分類コード5"
+, 'ImpDmy' AS "得意先分類コード5記述"
+, TRIM(F0101.ABAN86) AS "請求先"
+, 'ImpDmy' AS "請求先記述"
+, TRIM(F03012.AITRAR) AS "請求・入金条件"
+, 'ImpDmy' AS "請求・入金条件記述"
+, TRIM(F03012.AIRYIN) AS "回収方法"
+, 'ImpDmy' AS "回収方法記述"
+, TRIM(F03012.AITXA1) AS "得意先税区分"
+, 'ImpDmy' AS "得意先税区分記述"
+, TRIM(F03012.AIACL) AS "与信限度額"
+, 'ImpDmy' AS "与信限度額通貨"
+, TRIM(F03012.AISLDW) AS "トイザらス伝票/店番"
+, TRIM(F03012.AICFPP) AS "トイザらス伝票/納入先"
+, TRIM(F03012.AICFSP) AS "トイザらス伝票/Vendor No."
+, TRIM(F03012.AIDR03) AS "トイザらス伝票/出力区分"
+, TRIM(F0101.ABGROWTHR) AS "取引先コード（顧客先）"
+, 'ImpDmy' AS "取引先コード（顧客先）記述"
+, TRIM(F0116.ALCOUN) AS "都道府県コード"
+, TRIM(F0101.ABAC04) AS "地区コード"
+, 'ImpDmy' AS "地区コード記述"
+, TRIM(F0101.ABAC15) AS "請求締日"
+, 'ImpDmy' AS "請求締日記述"
+, TRIM(F03012.AIAC13) AS "得意先ランク"
+, 'ImpDmy' AS "得意先ランク記述"
+, TRIM(F03012.AIAC14) AS "専用伝票区分"
+, 'ImpDmy' AS "専用伝票区分記述"
+, TRIM(F03012.AIAC18) AS "リベート表示区分"
+, 'ImpDmy' AS "リベート表示区分記述"
+, TRIM(F03012.AIAC17) AS "営業所"
+, 'ImpDmy' AS "営業所記述"
+, TRIM(F03012.AIINMG) AS "テリトリー"
+, 'ImpDmy' AS "テリトリー記述"
+, TRIM(F03012.AIAC19) AS "管理区分"
+, 'ImpDmy' AS "管理区分記述"
+, TRIM(F03012.AIAC20) AS "閉店区分"
+, 'ImpDmy' AS "閉店区分記述"
+, TRIM(F03012.AIAC21) AS "伝票日付サイン"
+, 'ImpDmy' AS "伝票日付サイン記述"
+, TRIM(F03012.AIAC16) AS "請求先名有無"
+, 'ImpDmy' AS "請求先名有無記述"
+, TRIM(F0111.WWREM1) AS "請求先名"
+, TRIM(F0111.WWGNNM) AS "請求先名（カナ）"
+, TRIM(F01161.WLADDZ) AS "請求先郵便番号"
+, TRIM(F01161.WLADD1) AS "請求先住所1"
+, TRIM(F01161.WLADD2) AS "請求先住所2"
+, TRIM(F01161.WLADD3) AS "請求先住所3"
+, TRIM(F0115TEL2.WPPH1) AS "請求先電話番号"
+, TRIM(F0101.ABAN84) AS "仕入先担当者"
+, 'ImpDmy' AS "仕入先担当者コード記述"
+, TRIM(F0401.A6CRRP) AS "仕入先通貨"
+, TRIM(F0101.ABAC08) AS "仕入先分類コード1"
+, 'ImpDmy' AS "仕入先分類コード1記述"
+, TRIM(F0101.ABAC09) AS "仕入先分類コード2"
+, 'ImpDmy' AS "仕入先分類コード2記述"
+, TRIM(F0101.ABAC10) AS "仕入先分類コード3"
+, 'ImpDmy' AS "仕入先分類コード3記述"
+, TRIM(F0101.ABAC11) AS "仕入先分類コード4"
+, 'ImpDmy' AS "仕入先分類コード4記述"
+, TRIM(F0101.ABAC12) AS "仕入先分類コード5"
+, 'ImpDmy' AS "仕入先分類コード5記述"
+, TRIM(F0101.ABAC05) AS "仕入先種別"
+, 'ImpDmy' AS "仕入先種別記述"
+, TRIM(F0101.ABCLASS03) AS "債務連動チェック"
+, 'ImpDmy' AS "債務連動チェック記述"
+, TRIM(F0101.ABAC06) AS "源泉区分"
+, 'ImpDmy' AS "源泉区分記述"
+, TRIM(F0101.ABAC30) AS "源泉区分（印税・出版用）"
+, 'ImpDmy' AS "源泉区分（印税・出版用）記述"
+, TRIM(F0101.ABCLASS04) AS "源泉通貨"
+, TRIM(F0101.ABAN85) AS "支払先"
+, 'ImpDmy' AS "支払先記述"
+, TRIM(F0401.A6TRAP) AS "支払条件"
+, 'ImpDmy' AS "支払条件記述"
+, TRIM(F0401.A6PYIN) AS "支払方法"
+, 'ImpDmy' AS "支払方法記述"
+, TRIM(F750401.J4JPTY) AS "振込方法"
+, 'ImpDmy' AS "振込方法記述"
+, TRIM(F0401.A6TXA2) AS "仕入先税区分"
+, 'ImpDmy' AS "仕入先税区分記述"
+, TRIM(F0030.AYTNST) AS "振込先口座全銀協コード"
+, 'ImpDmy' AS "振込先口座全銀協コード記述"
+, TRIM(F0030.AYCKSV) AS "振込先口座種別"
+, 'ImpDmy' AS "振込先口座種別記述"
+, TRIM(F0030.AYCBNK) AS "振込先口座番号"
+, TRIM(F0030.AYDL01) AS "振込先口座名義人（カナ）"
+, TRIM(F0111.WWNICK) AS "出張所名"
+, TRIM(F0030.AYIBAN) AS "出張所名（カナ）"
+, TRIM(F0101.ABRMK) AS "ペンネーム"
+FROM F0101
+LEFT OUTER JOIN F0111
+ON F0101.ABAN8 = F0111.WWAN8
+LEFT OUTER JOIN F01151
+ON F0101.ABAN8 = F01151.EAAN8
+LEFT OUTER JOIN F01161
+ON F0101.ABAN8 = F01161.WLAN8
+LEFT OUTER JOIN F0401
+ON F0101.ABAN8 = F0401.A6AN8
+LEFT OUTER JOIN F750401
+ON F0101.ABAN8 = F750401.J4AN8
+LEFT OUTER JOIN F0030
+ON F0101.ABAN8 = F0030.AYAN8
+LEFT OUTER JOIN F0116
+ON F0101.ABAN8 = F0116.ALAN8
+LEFT OUTER JOIN F0150
+ON F0101.ABAN8 = F0150.MAAN8
+LEFT OUTER JOIN F03012
+ON F0101.ABAN8 = F03012.AIAN8
+LEFT OUTER JOIN (
+ SELECT WPAN8
+ , WPPH1
+ FROM F0115
+ WHERE WPPHTP = 'TEL'
+) F0115TEL
+ON F0101.ABAN8 = F0115TEL.WPAN8
+LEFT OUTER JOIN (
+ SELECT WPAN8
+ , WPPH1
+ FROM F0115
+ WHERE WPPHTP = 'TEL2'
+) F0115TEL2
+ON F0101.ABAN8 = F0115TEL2.WPAN8
+LEFT OUTER JOIN (
+ SELECT WPAN8
+ , WPPH1
+ FROM F0115
+ WHERE WPPHTP = 'FAX'
+) F0115FAX
+ON F0101.ABAN8 = F0115FAX.WPAN8
+WHERE F0101.ABAC27 = 'L'
+AND F0101.ABTICKER = '00100'
+AND (F03012.AICO = '00100' OR F03012.AICO IS NULL)
+ORDER BY F0101.ABAN8

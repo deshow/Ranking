@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<feed xmlns:im="http://itunes.apple.com/rss" xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+		<id>https://itunes.apple.com/jp/rss/toppaidapplications/limit=10/genre=6014/xml</id><title>iTunes Store: Gamesのトップ有料 App</title><updated>2013-08-23T21:39:46-07:00</updated><link rel="alternate" type="text/html" href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?cc=jp&amp;id=25185&amp;popId=30"/><link rel="self" href="https://itunes.apple.com/jp/rss/toppaidapplications/limit=10/genre=6014/xml"/><icon>http://itunes.apple.com/favicon.ico</icon><author><name>iTunes Store</name><uri>http://www.apple.com/jp/itunes/</uri></author><rights>Copyright 2008 Apple Inc.</rights>
+		
+			<entry>
+				<updated>2013-08-23T21:39:46-07:00</updated>
+				
+					<id im:id="610391947" im:bundleId="com.gameloft.asphalt8">https://itunes.apple.com/jp/app/asufaruto8-airborne/id610391947?mt=8&amp;uo=2</id>
+				
+					<title>アスファルト8：Airborne - Gameloft</title>
+				
+					<summary>*****重力に逆らう走りを見せろ！ *****
+iOSで大人気の「アスファルト」シリーズに新たなマイルストーンとなる傑作が誕生！最新物理エンジンが実現する新感覚のドライビングでダイナミックなハイスピード空中アクションを楽しもう！
+
+ドリームマシンが勢ぞろい
+・超一流マシン47台がエントリー（80%が新規搭載！）
+・Lamborghini Veneno、Bugatti Veyron、Ferrari FXX、Pagani Zonda Rなどトップブランドの名車を乗りこなせ
+・新たに収録したマシンのエンジン音がレースの臨場感を再現
+
+華麗な空中アクション
+・ジャンプ台を駆使して豪快なジャンプをキメろ
+・バレルロールやフラットスピンなどのアクロバットをキメながら空中をうまく駆け抜けろ
+
+エキゾチックな新コース
+・新コースのヴェネツィア、フランス領ギアナ、アイスランド、ネバダ砂漠を含む全9コース
+・キャリアモードにはオリジナルコースのほか、左右反転したコースも登場
+・隠されたショートカットを見つけろ
+
+スピードスターをうならせる新機能
+・キャリアモードには全8シーズン、180ものイベントを用意
+・次世代のシェーダやリアルタイムの反射など優れた視覚効果がリアルなビジュアルを実現
+・新たにINFECTIONモードとGATE DRIFTモードが追加
+・マシンのダメージを緻密に再現
+
+マルチプレイ&amp;ゴーストチャレンジ
+・最大8人でプレイ可能なマルチプレイレース
+・非同期レースでフレンドのゴーストと対戦
+・新たなランキングでフレンドや世界中のドライバーと成績を競え
+・実績をシェアしてスピードスターの称号を手に入れろ
+
+レースを盛り上げるBGM
+・疾走感あふれる楽曲の数々
+・Bloc PartyやMutemath、The Crystal Methodなど人気アーティストの楽曲を収録
+
+
+______________________________________________
+
+オフィシャルHP：www.gameloft.co.jp
+Twitter：http://twitter.com/gameloftjapan
+Facebook公式ファンページ：https://www.facebook.com/GameloftJapan
+ビデオ・トレイラー：www.youtube.com/gameloft
+オフィシャルブログ：http://blog.gameloft.com/japan
+*一部、英語のみのページもあります。</summary>
+				
+					<im:name>アスファルト8：Airborne</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/app/asufaruto8-airborne/id610391947?mt=8&amp;uo=2"/>
+				
+					<im:contentType term="Application" label="アプリケーション"/>
+				
+					<category im:id="6014" term="Games" scheme="https://itunes.apple.com/jp/genre/ios-gemu/id6014?mt=8&amp;uo=2" label="ゲーム"/>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/gameloft/id282764297?mt=8&amp;uo=2">Gameloft</im:artist>
+				
+					<im:price amount="85.00000" currency="JPY">¥85</im:price>
+				
+					<im:image height="53">http://a1781.phobos.apple.com/us/r1000/012/Purple6/v4/b8/64/cf/b864cf53-c0e9-5cc1-ec58-621dac2fe7b3/mzl.jghgqdzn.53x53-50.png</im:image>
+				
+					<im:image height="75">http://a649.phobos.apple.com/us/r1000/012/Purple6/v4/b8/64/cf/b864cf53-c0e9-5cc1-ec58-621dac2fe7b3/mzl.jghgqdzn.75x75-65.png</im:image>
+				
+					<im:image height="100">http://a502.phobos.apple.com/us/r1000/012/Purple6/v4/b8/64/cf/b864cf53-c0e9-5cc1-ec58-621dac2fe7b3/mzl.jghgqdzn.100x100-75.png</im:image>
+				
+					<rights>&#169;2013 Gameloft. All Rights Reserved. Gameloft, the Gameloft logo and Asphalt are trademarks of Gameloft in the US and/or other countries. All manufacturers, cars, names, brands and associated imagery featured in the Asphalt 8: Airborne mobile game are trademarks and/or copyrighted materials of their respective owners.</rights>
+				
+					<im:releaseDate label="2013年8月22日 ">2013-08-22T00:00:00-07:00</im:releaseDate>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/app/asufaruto8-airborne/id610391947?mt=8&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Gameloft - アスファルト8：Airborne アートワーク&quot; src=&quot;http://a502.phobos.apple.com/us/r1000/012/Purple6/v4/b8/64/cf/b864cf53-c0e9-5cc1-ec58-621dac2fe7b3/mzl.jghgqdzn.100x100-75.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/app/asufaruto8-airborne/id610391947?mt=8&amp;uo=2&quot;&gt;アスファルト8：Airborne&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/gameloft/id282764297?mt=8&amp;amp;uo=2&quot;&gt;Gameloft&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/ios-gemu/id6014?mt=8&amp;uo=2&quot;&gt;ゲーム&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥85
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2013年8月22日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;*****重力に逆らう走りを見せろ！ *****&lt;br/&gt;iOSで大人気の「アスファルト」シリーズに新たなマイルストーンとなる傑作が誕生！最新物理エンジンが実現する新感覚のドライビングでダイナミックなハイスピード空中アクションを楽しもう！&lt;br/&gt;&lt;br/&gt;ドリームマシンが勢ぞろい&lt;br/&gt;・超一流マシン47台がエントリー（80%が新規搭載！）&lt;br/&gt;・Lamborghini Veneno、Bugatti Veyron、Ferrari FXX、Pagani Zonda Rなどトップブランドの名車を乗りこなせ&lt;br/&gt;・新たに収録したマシンのエンジン音がレースの臨場感を再現&lt;br/&gt;&lt;br/&gt;華麗な空中アクション&lt;br/&gt;・ジャンプ台を駆使して豪快なジャンプをキメろ&lt;br/&gt;・バレルロールやフラットスピンなどのアクロバットをキメながら空中をうまく駆け抜けろ&lt;br/&gt;&lt;br/&gt;エキゾチックな新コース&lt;br/&gt;・新コースのヴェネツィア、フランス領ギアナ、アイスランド、ネバダ砂漠を含む全9コース&lt;br/&gt;・キャリアモードにはオリジナルコースのほか、左右反転したコースも登場&lt;br/&gt;・隠されたショートカットを見つけろ&lt;br/&gt;&lt;br/&gt;スピードスターをうならせる新機能&lt;br/&gt;・キャリアモードには全8シーズン、180ものイベントを用意&lt;br/&gt;・次世代のシェーダやリアルタイムの反射など優れた視覚効果がリアルなビジュアルを実現&lt;br/&gt;・新たにINFECTIONモードとGATE DRIFTモードが追加&lt;br/&gt;・マシンのダメージを緻密に再現&lt;br/&gt;&lt;br/&gt;マルチプレイ&amp;amp;ゴーストチャレンジ&lt;br/&gt;・最大8人でプレイ可能なマルチプレイレース&lt;br/&gt;・非同期レースでフレンドのゴーストと対戦&lt;br/&gt;・新たなランキングでフレンドや世界中のドライバーと成績を競え&lt;br/&gt;・実績をシェアしてスピードスターの称号を手に入れろ&lt;br/&gt;&lt;br/&gt;レースを盛り上げるBGM&lt;br/&gt;・疾走感あふれる楽曲の数々&lt;br/&gt;・Bloc PartyやMutemath、The Crystal Methodなど人気アーティストの楽曲を収録&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;______________________________________________&lt;br/&gt;&lt;br/&gt;オフィシャルHP：www.gameloft.co.jp&lt;br/&gt;Twitter：http://twitter.com/gameloftjapan&lt;br/&gt;Facebook公式ファンページ：https://www.facebook.com/GameloftJapan&lt;br/&gt;ビデオ・トレイラー：www.youtube.com/gameloft&lt;br/&gt;オフィシャルブログ：http://blog.gameloft.com/japan&lt;br/&gt;*一部、英語のみのページもあります。&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ©2013 Gameloft. All Rights Reserved. Gameloft, the Gameloft logo and Asphalt are trademarks of Gameloft in the US and/or other countries. All manufacturers, cars, names, brands and associated imagery featured in the Asphalt 8: Airborne mobile game are trademarks and/or copyrighted materials of their respective owners.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2013-08-23T21:39:46-07:00</updated>
+				
+					<id im:id="675562116" im:bundleId="jp.co.crossgate.ays-simulator">https://itunes.apple.com/jp/app/pachisuroakb48-shi-jiapuri/id675562116?mt=8&amp;uo=2</id>
+				
+					<title>ぱちスロAKB48 実機アプリ - Crossgate Co.,Ltd.</title>
+				
+					<summary>[実機アプリ]ぱちスロAKB48
+
+【アプリの特徴】
+重力シンパシー公演はぱちスロで完成する!!
+KYORAKUぱちスロ第1弾!!「ぱちスロAKB48」がiOSアプリに登場!
+
+ぱちスロAKB48の演出を実機さながらに再現した決定版！
+もちろん、重力シンパシー公演も実装！いつでもどこでも全席最前列！
+
+【KYORAKUサプライズらんど】
+KYORAKUの他アプリを楽しむならこちら！
+ぱちんこ実機などの各種情報も掲載！
+http://www.kyoraku.jp/
+へ今すぐアクセス!!
+
+【対応端末】
+iPhone5
+iPhone4S
+iPhone4
+
+※iPod touch・iPadは動作保証対象外となります。
+※対応端末以外でご購入頂いた場合のトラブルにつきましては、サポート及び返金の対象外となります。あらかじめご了承ください。
+
+【データのダウンロード】
+本アプリはファイルサイズが20MBを超えているため、ダウンロードにはWi-Fi接続が必要です。
+インストールには約1.9GBのストレージ空き容量が必要になりますので、ストレージの空き容量が十分にあることをご確認ください。
+
+【注意事項】
+○記載されている対応機種で本アプリが動作することは確認済みですが、使用環境や状態などによって動作しない場合があります。
+○対応機種であっても使用環境や状態などによって、演出とサウンドのズレや一部がスキップするなどの現象が起こる場合があります。
+○本アプリは高負荷の処理を継続的に行うため、多くのメモリを消費しますので、他アプリが起動された状態では正常に動作しない場合があります。
+○対応端末以外でご購入頂いた場合のトラブルにつきましては、サポート及び返金の対象外となります。あらかじめご了承ください。
+○本アプリの遊技中は端末側の設定に関わらず、液晶画面が常にオンの状態になります。バッテリー残量には十分ご注意ください。
+○MUSICセレクトで選択できる楽曲数には限りがあります。
+○セーブ機能を搭載しておりますが、以下のデータは保存されません。
+・推しメン選択で設定した推しメン
+・推しメンレベルなどのぱちログデータ
+
+【リールが動作しないお客様へ】
+一定の条件を満たしている端末に限り、レバーオン時にリールが動作せず、遊技が行えない現象が確認されております。
+現在、こちらの現象の修正を行っておりますが、端末の再起動を行うことで解決する場合がありますので、お試しいただきますようお願いたします。
+この度は、ご迷惑をお掛け致しましたことを深くお詫び申し上げます。
+
+【サポート時間】
+平日(土日、祝祭日、年末年始を除く)
+10:00～17:00
+
+&amp;copy;AKS
+&amp;copy;KYORAKU SANGYO Co.,Ltd.
+
+JASRAC許諾番号: 9009464054Y43030
+JASRAC録音利用許諾番号: V-1303937</summary>
+				
+					<im:name>ぱちスロAKB48 実機アプリ</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/app/pachisuroakb48-shi-jiapuri/id675562116?mt=8&amp;uo=2"/>
+				
+					<im:contentType term="Application" label="アプリケーション"/>
+				
+					<category im:id="6014" term="Games" scheme="https://itunes.apple.com/jp/genre/ios-gemu/id6014?mt=8&amp;uo=2" label="ゲーム"/>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/crossgate-co.-ltd./id508692380?mt=8&amp;uo=2">Crossgate Co.,Ltd.</im:artist>
+				
+					<im:price amount="1800.00000" currency="JPY">¥1,800</im:price>
+				
+					<im:image height="53">http://a1064.phobos.apple.com/us/r1000/044/Purple4/v4/9b/07/61/9b0761de-0f0f-42c4-ddd2-b7e246c9f5b8/mzl.aqgtezmu.53x53-50.png</im:image>
+				
+					<im:image height="75">http://a1580.phobos.apple.com/us/r1000/044/Purple4/v4/9b/07/61/9b0761de-0f0f-42c4-ddd2-b7e246c9f5b8/mzl.aqgtezmu.75x75-65.png</im:image>
+				
+					<im:image height="100">http://a1449.phobos.apple.com/us/r1000/044/Purple4/v4/9b/07/61/9b0761de-0f0f-42c4-ddd2-b7e246c9f5b8/mzl.aqgtezmu.100x100-75.png</im:image>
+				
+					<rights>&#169;AKS &#169;KYORAKU SANGYO Co.,Ltd.</rights>
+				
+					<im:releaseDate label="2013年8月19日 ">2013-08-19T00:00:00-07:00</im:releaseDate>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/app/pachisuroakb48-shi-jiapuri/id675562116?mt=8&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Crossgate Co.,Ltd. - ぱちスロAKB48 実機アプリ アートワーク&quot; src=&quot;http://a1449.phobos.apple.com/us/r1000/044/Purple4/v4/9b/07/61/9b0761de-0f0f-42c4-ddd2-b7e246c9f5b8/mzl.aqgtezmu.100x100-75.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/app/pachisuroakb48-shi-jiapuri/id675562116?mt=8&amp;uo=2&quot;&gt;ぱちスロAKB48 実機アプリ&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/crossgate-co.-ltd./id508692380?mt=8&amp;amp;uo=2&quot;&gt;Crossgate Co.,Ltd.&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/ios-gemu/id6014?mt=8&amp;uo=2&quot;&gt;ゲーム&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥1,800
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2013年8月19日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;[実機アプリ]ぱちスロAKB48&lt;br/&gt;&lt;br/&gt;【アプリの特徴】&lt;br/&gt;重力シンパシー公演はぱちスロで完成する!!&lt;br/&gt;KYORAKUぱちスロ第1弾!!「ぱちスロAKB48」がiOSアプリに登場!&lt;br/&gt;&lt;br/&gt;ぱちスロAKB48の演出を実機さながらに再現した決定版！&lt;br/&gt;もちろん、重力シンパシー公演も実装！いつでもどこでも全席最前列！&lt;br/&gt;&lt;br/&gt;【KYORAKUサプライズらんど】&lt;br/&gt;KYORAKUの他アプリを楽しむならこちら！&lt;br/&gt;ぱちんこ実機などの各種情報も掲載！&lt;br/&gt;http://www.kyoraku.jp/&lt;br/&gt;へ今すぐアクセス!!&lt;br/&gt;&lt;br/&gt;【対応端末】&lt;br/&gt;iPhone5&lt;br/&gt;iPhone4S&lt;br/&gt;iPhone4&lt;br/&gt;&lt;br/&gt;※iPod touch・iPadは動作保証対象外となります。&lt;br/&gt;※対応端末以外でご購入頂いた場合のトラブルにつきましては、サポート及び返金の対象外となります。あらかじめご了承ください。&lt;br/&gt;&lt;br/&gt;【データのダウンロード】&lt;br/&gt;本アプリはファイルサイズが20MBを超えているため、ダウンロードにはWi-Fi接続が必要です。&lt;br/&gt;インストールには約1.9GBのストレージ空き容量が必要になりますので、ストレージの空き容量が十分にあることをご確認ください。&lt;br/&gt;&lt;br/&gt;【注意事項】&lt;br/&gt;○記載されている対応機種で本アプリが動作することは確認済みですが、使用環境や状態などによって動作しない場合があります。&lt;br/&gt;○対応機種であっても使用環境や状態などによって、演出とサウンドのズレや一部がスキップするなどの現象が起こる場合があります。&lt;br/&gt;○本アプリは高負荷の処理を継続的に行うため、多くのメモリを消費しますので、他アプリが起動された状態では正常に動作しない場合があります。&lt;br/&gt;○対応端末以外でご購入頂いた場合のトラブルにつきましては、サポート及び返金の対象外となります。あらかじめご了承ください。&lt;br/&gt;○本アプリの遊技中は端末側の設定に関わらず、液晶画面が常にオンの状態になります。バッテリー残量には十分ご注意ください。&lt;br/&gt;○MUSICセレクトで選択できる楽曲数には限りがあります。&lt;br/&gt;○セーブ機能を搭載しておりますが、以下のデータは保存されません。&lt;br/&gt;・推しメン選択で設定した推しメン&lt;br/&gt;・推しメンレベルなどのぱちログデータ&lt;br/&gt;&lt;br/&gt;【リールが動作しないお客様へ】&lt;br/&gt;一定の条件を満たしている端末に限り、レバーオン時にリールが動作せず、遊技が行えない現象が確認されております。&lt;br/&gt;現在、こちらの現象の修正を行っておりますが、端末の再起動を行うことで解決する場合がありますので、お試しいただきますようお願いたします。&lt;br/&gt;この度は、ご迷惑をお掛け致しましたことを深くお詫び申し上げます。&lt;br/&gt;&lt;br/&gt;【サポート時間】&lt;br/&gt;平日(土日、祝祭日、年末年始を除く)&lt;br/&gt;10:00～17:00&lt;br/&gt;&lt;br/&gt;&amp;amp;copy;AKS&lt;br/&gt;&amp;amp;copy;KYORAKU SANGYO Co.,Ltd.&lt;br/&gt;&lt;br/&gt;JASRAC許諾番号: 9009464054Y43030&lt;br/&gt;JASRAC録音利用許諾番号: V-1303937&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ©AKS ©KYORAKU SANGYO Co.,Ltd.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2013-08-23T21:39:46-07:00</updated>
+				
+					<id im:id="684256528" im:bundleId="jp.dorasu.apps.hod">https://itunes.apple.com/jp/app/jijpachisuro-highschool-dead/id684256528?mt=8&amp;uo=2</id>
+				
+					<title>激Jパチスロ HIGHSCHOOL OF THE DEAD - DORASU CORPORATION</title>
+				
+					<summary>■アプリ紹介 
+「学園黙示録 HIGHSCHOOL OF THE DEAD」は、パチスロメーカー・スパイキーより2013年8月5日（月）より実機稼働中のパチスロ機で、月刊ドラゴンエイジで連載中でテレビアニメ化もされた同名タイトルの人気コミックが原作となっております。 
+iPhoneアプリでは、「学園黙示録 HIGHSCHOOL OF THE DEAD」の熱い演出の数々はもちろん、主人公「小室 孝（CV. 諏訪部順一）」「毒島 冴子（CV.沢城みゆき）」を始め、「宮本 麗（CV.井上麻里奈）」「高城 沙耶（CV.喜多村英梨）」「平野 コータ（CV.檜山修之）」「鞠川 静香（CV.福井裕佳梨）」といった豪華声優陣のボイスや楽曲を完全収録しております。 
+
+【アプリ版機能一覧】 
+●オートプレイ 
+　自動でスロットを打ってくれる機能です。 
+　押し順ナビやボーナス時は自動で揃えてくれるので、パチスロ初心者の方も安心して楽しめます。 
+　また、スロット画面からワンタッチで切り替えることができるので、気軽に設定することができます。 
+　データ収集、“ながらプレイ”にオススメです。 
+●ウェイトタイムカット 
+　ウェイトタイムを省略し、待ち時間なしにサクサクプレイすることができます。 
+●小役強制 
+　小役を好きなタイミングで揃える事が出来ます。 
+　実機研究や演出を見たい方にオススメの機能です。 
+
+【機種紹介】
+　業界初、フリーズ時間をストックするBONUSはもちろん
+　ARTや、様々な上乗せ特化ゾーンを楽しむことが出来る！機種となっている
+　
+
+■対応機種 
+・iPhone 4S以降 
+※iPhone5動作確認済 
+
+一部端末の性能上、リールの動作が遅くなったりサウンドが遅れる事がございます。 
+また、メモリ不足により、アプリの動作が不安定になる事が御座います。その場合、一度他のアプリを終了させてからアプリを再起動したり、機種自体を再起動してから再度プレイをお試し下さい。 
+
+■iOSバージョン 
+iOS5.0以上推奨
+
+■JASRAC許諾番号 
+9010727011Y43030</summary>
+				
+					<im:name>激Jパチスロ HIGHSCHOOL OF THE DEAD</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/app/jijpachisuro-highschool-dead/id684256528?mt=8&amp;uo=2"/>
+				
+					<im:contentType term="Application" label="アプリケーション"/>
+				
+					<category im:id="6014" term="Games" scheme="https://itunes.apple.com/jp/genre/ios-gemu/id6014?mt=8&amp;uo=2" label="ゲーム"/>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/dorasu-corporation/id294904532?mt=8&amp;uo=2">DORASU CORPORATION</im:artist>
+				
+					<im:price amount="1500.00000" currency="JPY">¥1,500</im:price>
+				
+					<im:image height="53">http://a1544.phobos.apple.com/us/r1000/058/Purple6/v4/4b/84/53/4b845335-f72e-4913-334b-09a91cb13e2e/mzl.vjskehib.53x53-50.png</im:image>
+				
+					<im:image height="75">http://a412.phobos.apple.com/us/r1000/058/Purple6/v4/4b/84/53/4b845335-f72e-4913-334b-09a91cb13e2e/mzl.vjskehib.75x75-65.png</im:image>
+				
+					<im:image height="100">http://a809.phobos.apple.com/us/r1000/058/Purple6/v4/4b/84/53/4b845335-f72e-4913-334b-09a91cb13e2e/mzl.vjskehib.100x100-75.png</im:image>
+				
+					<rights>&#169;佐藤大輔・佐藤ショウジ／富士見書房／H.O.T.D.製作委員会　&#169;Spiky　&#169;DORASU</rights>
+				
+					<im:releaseDate label="2013年8月14日 ">2013-08-14T20:33:06-07:00</im:releaseDate>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/app/jijpachisuro-highschool-dead/id684256528?mt=8&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;DORASU CORPORATION - 激Jパチスロ HIGHSCHOOL OF THE DEAD アートワーク&quot; src=&quot;http://a809.phobos.apple.com/us/r1000/058/Purple6/v4/4b/84/53/4b845335-f72e-4913-334b-09a91cb13e2e/mzl.vjskehib.100x100-75.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/app/jijpachisuro-highschool-dead/id684256528?mt=8&amp;uo=2&quot;&gt;激Jパチスロ HIGHSCHOOL OF THE DEAD&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/dorasu-corporation/id294904532?mt=8&amp;amp;uo=2&quot;&gt;DORASU CORPORATION&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/ios-gemu/id6014?mt=8&amp;uo=2&quot;&gt;ゲーム&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥1,500
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2013年8月14日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;■アプリ紹介 &lt;br/&gt;「学園黙示録 HIGHSCHOOL OF THE DEAD」は、パチスロメーカー・スパイキーより2013年8月5日（月）より実機稼働中のパチスロ機で、月刊ドラゴンエイジで連載中でテレビアニメ化もされた同名タイトルの人気コミックが原作となっております。 &lt;br/&gt;iPhoneアプリでは、「学園黙示録 HIGHSCHOOL OF THE DEAD」の熱い演出の数々はもちろん、主人公「小室 孝（CV. 諏訪部順一）」「毒島 冴子（CV.沢城みゆき）」を始め、「宮本 麗（CV.井上麻里奈）」「高城 沙耶（CV.喜多村英梨）」「平野 コータ（CV.檜山修之）」「鞠川 静香（CV.福井裕佳梨）」といった豪華声優陣のボイスや楽曲を完全収録しております。 &lt;br/&gt;&lt;br/&gt;【アプリ版機能一覧】 &lt;br/&gt;●オートプレイ &lt;br/&gt;　自動でスロットを打ってくれる機能です。 &lt;br/&gt;　押し順ナビやボーナス時は自動で揃えてくれるので、パチスロ初心者の方も安心して楽しめます。 &lt;br/&gt;　また、スロット画面からワンタッチで切り替えることができるので、気軽に設定することができます。 &lt;br/&gt;　データ収集、“ながらプレイ”にオススメです。 &lt;br/&gt;●ウェイトタイムカット &lt;br/&gt;　ウェイトタイムを省略し、待ち時間なしにサクサクプレイすることができます。 &lt;br/&gt;●小役強制 &lt;br/&gt;　小役を好きなタイミングで揃える事が出来ます。 &lt;br/&gt;　実機研究や演出を見たい方にオススメの機能です。 &lt;br/&gt;&lt;br/&gt;【機種紹介】&lt;br/&gt;　業界初、フリーズ時間をストックするBONUSはもちろん&lt;br/&gt;　ARTや、様々な上乗せ特化ゾーンを楽しむことが出来る！機種となっている&lt;br/&gt;　&lt;br/&gt;&lt;br/&gt;■対応機種 &lt;br/&gt;・iPhone 4S以降 &lt;br/&gt;※iPhone5動作確認済 &lt;br/&gt;&lt;br/&gt;一部端末の性能上、リールの動作が遅くなったりサウンドが遅れる事がございます。 &lt;br/&gt;また、メモリ不足により、アプリの動作が不安定になる事が御座います。その場合、一度他のアプリを終了させてからアプリを再起動したり、機種自体を再起動してから再度プレイをお試し下さい。 &lt;br/&gt;&lt;br/&gt;■iOSバージョン &lt;br/&gt;iOS5.0以上推奨&lt;br/&gt;&lt;br/&gt;■JASRAC許諾番号 &lt;br/&gt;9010727011Y43030&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ©佐藤大輔・佐藤ショウジ／富士見書房／H.O.T.D.製作委員会　©Spiky　©DORASU&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2013-08-23T21:39:46-07:00</updated>
+				
+					<id im:id="479516143" im:bundleId="com.mojang.minecraftpe">https://itunes.apple.com/jp/app/minecraft-pocket-edition/id479516143?mt=8&amp;uo=2</id>
+				
+					<title>Minecraft - Pocket Edition - Mojang</title>
+				
+					<summary>想像、そして創造。いつでもどこでも、Minecraft - Pocket Editionの世界があなたの創造力を待っています。
+
+Minecraft (マインクラフト) - Pocket Editionでは、いつでもどこでもものづくりができます。旅行中はもちろん、友人とぶらぶらしている時、あるいは公園で座りながら、ブロックを使ってこれまでで一番の大作を作ってしまいましょう。コンピューターでのプレイに縛られることなく、どこでもMinecraftで遊ぶことができます。
+
+* 地形のランダム生成
+* 想像力次第でどんなものでも作れます
+* 36種類のさまざまなブロックが登場
+* 友人を招待して一緒に同じ世界で遊びましょう (ローカルのワイヤレス・ネットワーク内)
+* あなたの携帯デバイスにマルチプレーヤーのワールドを保存できます
+
+ゲーム内のテキストは英語です。</summary>
+				
+					<im:name>Minecraft - Pocket Edition</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/app/minecraft-pocket-edition/id479516143?mt=8&amp;uo=2"/>
+				
+					<im:contentType term="Application" label="アプリケーション"/>
+				
+					<category im:id="6014" term="Games" scheme="https://itunes.apple.com/jp/genre/ios-gemu/id6014?mt=8&amp;uo=2" label="ゲーム"/>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/mojang/id479516146?mt=8&amp;uo=2">Mojang</im:artist>
+				
+					<im:price amount="600.00000" currency="JPY">¥600</im:price>
+				
+					<im:image height="53">http://a123.phobos.apple.com/us/r1000/017/Purple/v4/9f/2c/73/9f2c73f7-79e8-9012-5b60-6cd5be39040d/mzl.oqkcfggt.53x53-50.png</im:image>
+				
+					<im:image height="75">http://a639.phobos.apple.com/us/r1000/017/Purple/v4/9f/2c/73/9f2c73f7-79e8-9012-5b60-6cd5be39040d/mzl.oqkcfggt.75x75-65.png</im:image>
+				
+					<im:image height="100">http://a1292.phobos.apple.com/us/r1000/017/Purple/v4/9f/2c/73/9f2c73f7-79e8-9012-5b60-6cd5be39040d/mzl.oqkcfggt.100x100-75.png</im:image>
+				
+					<rights>&#169; Mojang AB</rights>
+				
+					<im:releaseDate label="2011年11月17日 ">2011-11-17T00:00:00-07:00</im:releaseDate>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/app/minecraft-pocket-edition/id479516143?mt=8&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Mojang - Minecraft - Pocket Edition アートワーク&quot; src=&quot;http://a1292.phobos.apple.com/us/r1000/017/Purple/v4/9f/2c/73/9f2c73f7-79e8-9012-5b60-6cd5be39040d/mzl.oqkcfggt.100x100-75.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/app/minecraft-pocket-edition/id479516143?mt=8&amp;uo=2&quot;&gt;Minecraft - Pocket Edition&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/mojang/id479516146?mt=8&amp;amp;uo=2&quot;&gt;Mojang&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/ios-gemu/id6014?mt=8&amp;uo=2&quot;&gt;ゲーム&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥600
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2011年11月17日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;想像、そして創造。いつでもどこでも、Minecraft - Pocket Editionの世界があなたの創造力を待っています。&lt;br/&gt;&lt;br/&gt;Minecraft (マインクラフト) - Pocket Editionでは、いつでもどこでもものづくりができます。旅行中はもちろん、友人とぶらぶらしている時、あるいは公園で座りながら、ブロックを使ってこれまでで一番の大作を作ってしまいましょう。コンピューターでのプレイに縛られることなく、どこでもMinecraftで遊ぶことができます。&lt;br/&gt;&lt;br/&gt;* 地形のランダム生成&lt;br/&gt;* 想像力次第でどんなものでも作れます&lt;br/&gt;* 36種類のさまざまなブロックが登場&lt;br/&gt;* 友人を招待して一緒に同じ世界で遊びましょう (ローカルのワイヤレス・ネットワーク内)&lt;br/&gt;* あなたの携帯デバイスにマルチプレーヤーのワールドを保存できます&lt;br/&gt;&lt;br/&gt;ゲーム内のテキストは英語です。&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; © Mojang AB&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2013-08-23T21:39:46-07:00</updated>
+				
+					<id im:id="685105048" im:bundleId="jp.futurescope.ps.sdk">https://itunes.apple.com/jp/app/crringu-zhouino7ri-jian/id685105048?mt=8&amp;uo=2</id>
+				
+					<title>CRリング～呪いの7日間～ - FutureScope, Corp.</title>
+				
+					<summary>恐イイィッ!!パチンコ「CRリング～呪いの7日間～」
+
+ホールで絶賛稼働中の「CRリング～呪いの7日間～」がiPhoneアプリで遂に登場!!
+
+■ 対応機種
+・iPhone 4以降, iPod touch第四世代以降
+※上記より型式が古い機種ではCPUスペック及びメモリ容量の関係から正常に動作しない可能性がございます。ご購入の際はご注意下さい。 
+
+■ アプリ容量
+本アプリをお楽しみいただくためには、端末に2GB以上の空き容量が必要となります。
+予めご了承くださいますようお願い申し上げます。
+
+■ アプリ紹介
+
+・映画「リング」撮影スタッフによるオリジナルストーリーを搭載　｢ヒト味違う&#34;恐ろしさ&#34;｣を体感せよ
+パチンコ演出に映画の恐怖感はもちろん、本機オリジナルストーリーを追加「怖くなるほど目が離せない」
+
+・大当りが連鎖する｢恐怖のST」
+大当り終了後突入する右打ち70回転の確変状態「恐怖のST」このモードが2000増殖の鍵!?
+
+回転数に応じて演出が3段階に変化
+超高速モード「貞子接近」や新ストーリーの「みちづれ」など次々と襲いかかる恐怖の演出から目が離せない
+
+・パチンコ好きにはたまらない研究機能を搭載
+遊技情報で出玉率のシミュレーションやベストスコアを閲覧可能
+
+大当り確率の設定は9段階から選択可能
+実機と同様の1/381の確率はもちろん1/1に
+設定すれば様々な大当り演出を堪能できるぞ!
+
+貞子は今夜、キットクル･･･
+---------------------
+
+本アプリ搭載楽曲はJASRACを通しライセンスをクリアしております。
+
+(C)1998「リング」「らせん」製作委員会
+(C)藤商事</summary>
+				
+					<im:name>CRリング～呪いの7日間～</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/app/crringu-zhouino7ri-jian/id685105048?mt=8&amp;uo=2"/>
+				
+					<im:contentType term="Application" label="アプリケーション"/>
+				
+					<category im:id="6014" term="Games" scheme="https://itunes.apple.com/jp/genre/ios-gemu/id6014?mt=8&amp;uo=2" label="ゲーム"/>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/futurescope-corp./id401601222?mt=8&amp;uo=2">FutureScope, Corp.</im:artist>
+				
+					<im:price amount="1500.00000" currency="JPY">¥1,500</im:price>
+				
+					<im:image height="53">http://a135.phobos.apple.com/us/r1000/059/Purple4/v4/48/f7/58/48f758d8-1e74-7516-fd7e-1bc5ee239ba4/mzl.mpojoxmf.53x53-50.png</im:image>
+				
+					<im:image height="75">http://a1003.phobos.apple.com/us/r1000/059/Purple4/v4/48/f7/58/48f758d8-1e74-7516-fd7e-1bc5ee239ba4/mzl.mpojoxmf.75x75-65.png</im:image>
+				
+					<im:image height="100">http://a152.phobos.apple.com/us/r1000/059/Purple4/v4/48/f7/58/48f758d8-1e74-7516-fd7e-1bc5ee239ba4/mzl.mpojoxmf.100x100-75.png</im:image>
+				
+					<rights>&#169;1998「リング」「らせん」製作委員会 &#169;藤商事</rights>
+				
+					<im:releaseDate label="2013年8月19日 ">2013-08-19T00:00:00-07:00</im:releaseDate>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/app/crringu-zhouino7ri-jian/id685105048?mt=8&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;FutureScope, Corp. - CRリング～呪いの7日間～ アートワーク&quot; src=&quot;http://a152.phobos.apple.com/us/r1000/059/Purple4/v4/48/f7/58/48f758d8-1e74-7516-fd7e-1bc5ee239ba4/mzl.mpojoxmf.100x100-75.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/app/crringu-zhouino7ri-jian/id685105048?mt=8&amp;uo=2&quot;&gt;CRリング～呪いの7日間～&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/futurescope-corp./id401601222?mt=8&amp;amp;uo=2&quot;&gt;FutureScope, Corp.&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/ios-gemu/id6014?mt=8&amp;uo=2&quot;&gt;ゲーム&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥1,500
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2013年8月19日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;恐イイィッ!!パチンコ「CRリング～呪いの7日間～」&lt;br/&gt;&lt;br/&gt;ホールで絶賛稼働中の「CRリング～呪いの7日間～」がiPhoneアプリで遂に登場!!&lt;br/&gt;&lt;br/&gt;■ 対応機種&lt;br/&gt;・iPhone 4以降, iPod touch第四世代以降&lt;br/&gt;※上記より型式が古い機種ではCPUスペック及びメモリ容量の関係から正常に動作しない可能性がございます。ご購入の際はご注意下さい。 &lt;br/&gt;&lt;br/&gt;■ アプリ容量&lt;br/&gt;本アプリをお楽しみいただくためには、端末に2GB以上の空き容量が必要となります。&lt;br/&gt;予めご了承くださいますようお願い申し上げます。&lt;br/&gt;&lt;br/&gt;■ アプリ紹介&lt;br/&gt;&lt;br/&gt;・映画「リング」撮影スタッフによるオリジナルストーリーを搭載　｢ヒト味違う&amp;#34;恐ろしさ&amp;#34;｣を体感せよ&lt;br/&gt;パチンコ演出に映画の恐怖感はもちろん、本機オリジナルストーリーを追加「怖くなるほど目が離せない」&lt;br/&gt;&lt;br/&gt;・大当りが連鎖する｢恐怖のST」&lt;br/&gt;大当り終了後突入する右打ち70回転の確変状態「恐怖のST」このモードが2000増殖の鍵!?&lt;br/&gt;&lt;br/&gt;回転数に応じて演出が3段階に変化&lt;br/&gt;超高速モード「貞子接近」や新ストーリーの「みちづれ」など次々と襲いかかる恐怖の演出から目が離せない&lt;br/&gt;&lt;br/&gt;・パチンコ好きにはたまらない研究機能を搭載&lt;br/&gt;遊技情報で出玉率のシミュレーションやベストスコアを閲覧可能&lt;br/&gt;&lt;br/&gt;大当り確率の設定は9段階から選択可能&lt;br/&gt;実機と同様の1/381の確率はもちろん1/1に&lt;br/&gt;設定すれば様々な大当り演出を堪能できるぞ!&lt;br/&gt;&lt;br/&gt;貞子は今夜、キットクル･･･&lt;br/&gt;---------------------&lt;br/&gt;&lt;br/&gt;本アプリ搭載楽曲はJASRACを通しライセンスをクリアしております。&lt;br/&gt;&lt;br/&gt;(C)1998「リング」「らせん」製作委員会&lt;br/&gt;(C)藤商事&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ©1998「リング」「らせん」製作委員会 ©藤商事&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2013-08-23T21:39:46-07:00</updated>
+				
+					<id im:id="485246824" im:bundleId="com.rayark.Cytus.full">https://itunes.apple.com/jp/app/cytus/id485246824?mt=8&amp;uo=2</id>
+				
+					<title>Cytus - Rayark Inc.</title>
+				
+					<summary>Cytus v4.0、8月14日から8月18日まで半額発売！
+
+================================= 
+
+日本、オランダ、韓国、台湾、タイ、香港、マカオ、シンガポール  iPhone ミュージックゲームカテゴリ No.1
+日本、オランダ、韓国、台湾、タイ、香港、マカオ、中国 iPad ミュージックゲームカテゴリ No.1
+米国ストア iPhone &amp; iPadミュージックゲームカテゴリ No.2
+皆さんの絶大な支持に心から感謝します!
+------------------------------------------------
+**Cytusミュージックワールドにようこそ**
+
+ミュージックとアート、ビートと音の反響を感じ取れ!
+
+まずはスクリーンショットで、今までにないiOS最高の音楽ゲームをチェック!
+とにかくプレイして体感しよう!
+
+*特徴*
+- 世界中の有名作曲家による、84曲以上の楽曲と168以上のバリエーション
+- 手書きによる美しいアートスタイル(スクリーンショットのイラストを参照)
+- 直感的なアクティブスキャンラインシステムと3種類のノートタイプ
+- プレイヤーの好みに合わせてノート表示方式をカスタマイズ可能
+- ビートとリズムによる強烈なフィードバック
+- カジュアルからチャレンジまで対応する幅広い難易度は9レベル以上
+- ポップス、ジャズ、トランス、ハードコア、ドラムンベースなど多様なジャンルの楽曲
+- Game Centerランキング対応:世界中のプレイヤーにチャレンジ!
+- FacebookでCytusの腕前を披露しよう
+
+*操作方法*
+- アクティブスキャンラインに合わせてプレイします
+- ラインが各ノートを通過する時にタップ
+- 高スコアを狙うには、ラインが各ノートにちょうど重なった時を見計らってタップしましょう
+
+*ストーリー*
+遠い未来のこと。かつて人間が持っていた魂の最後の名残として、ロボットだけが感覚を持つものとして残っていました。
+
+しかし、人類は滅んだわけではありませんでした。
+こうしたロボットたちに記憶を転送できるテクノロジーが、その空間には限りはあるものの、
+新しい記憶が古い記憶を徐々に置き換えていくのです。
+
+人間の記憶に残る感情が薄れてなくなることがないように、ロボットたちはその感情を音楽に変換し、Cytusと呼ばれた場所に保存し始めました。
+彼らは、音楽を用いて人間の感情を体験することで、それぞれの魂の存在を夢見ているのです……。
+
+Cytus
+---------------------------------------------------
+Cytusオフィシャルサイト:  www.rayark.com/g/cytus
+Rayarkオフィシャルサイト: www.rayark.com
+Follow Cytus https://twitter.com/CytusRayark
+Like   Cytus http://www.facebook.com/rayark.Cytus</summary>
+				
+					<im:name>Cytus</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/app/cytus/id485246824?mt=8&amp;uo=2"/>
+				
+					<im:contentType term="Application" label="アプリケーション"/>
+				
+					<category im:id="6014" term="Games" scheme="https://itunes.apple.com/jp/genre/ios-gemu/id6014?mt=8&amp;uo=2" label="ゲーム"/>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/rayark-inc./id483529071?mt=8&amp;uo=2">Rayark Inc.</im:artist>
+				
+					<im:price amount="170.00000" currency="JPY">¥170</im:price>
+				
+					<im:image height="53">http://a52.phobos.apple.com/us/r1000/020/Purple6/v4/f4/90/9d/f4909d8d-d4de-e274-87fa-e7f26f80373e/mzl.bzafshec.53x53-50.png</im:image>
+				
+					<im:image height="75">http://a568.phobos.apple.com/us/r1000/020/Purple6/v4/f4/90/9d/f4909d8d-d4de-e274-87fa-e7f26f80373e/mzl.bzafshec.75x75-65.png</im:image>
+				
+					<im:image height="100">http://a1157.phobos.apple.com/us/r1000/020/Purple6/v4/f4/90/9d/f4909d8d-d4de-e274-87fa-e7f26f80373e/mzl.bzafshec.100x100-75.png</im:image>
+				
+					<rights>&#169; 2012, Rayark Inc.</rights>
+				
+					<im:releaseDate label="2012年1月12日 ">2012-01-12T01:37:32-07:00</im:releaseDate>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/app/cytus/id485246824?mt=8&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Rayark Inc. - Cytus アートワーク&quot; src=&quot;http://a1157.phobos.apple.com/us/r1000/020/Purple6/v4/f4/90/9d/f4909d8d-d4de-e274-87fa-e7f26f80373e/mzl.bzafshec.100x100-75.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/app/cytus/id485246824?mt=8&amp;uo=2&quot;&gt;Cytus&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/rayark-inc./id483529071?mt=8&amp;amp;uo=2&quot;&gt;Rayark Inc.&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/ios-gemu/id6014?mt=8&amp;uo=2&quot;&gt;ゲーム&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥170
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2012年1月12日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;Cytus v4.0、8月14日から8月18日まで半額発売！&lt;br/&gt;&lt;br/&gt;================================= &lt;br/&gt;&lt;br/&gt;日本、オランダ、韓国、台湾、タイ、香港、マカオ、シンガポール  iPhone ミュージックゲームカテゴリ No.1&lt;br/&gt;日本、オランダ、韓国、台湾、タイ、香港、マカオ、中国 iPad ミュージックゲームカテゴリ No.1&lt;br/&gt;米国ストア iPhone &amp;amp; iPadミュージックゲームカテゴリ No.2&lt;br/&gt;皆さんの絶大な支持に心から感謝します!&lt;br/&gt;------------------------------------------------&lt;br/&gt;**Cytusミュージックワールドにようこそ**&lt;br/&gt;&lt;br/&gt;ミュージックとアート、ビートと音の反響を感じ取れ!&lt;br/&gt;&lt;br/&gt;まずはスクリーンショットで、今までにないiOS最高の音楽ゲームをチェック!&lt;br/&gt;とにかくプレイして体感しよう!&lt;br/&gt;&lt;br/&gt;*特徴*&lt;br/&gt;- 世界中の有名作曲家による、84曲以上の楽曲と168以上のバリエーション&lt;br/&gt;- 手書きによる美しいアートスタイル(スクリーンショットのイラストを参照)&lt;br/&gt;- 直感的なアクティブスキャンラインシステムと3種類のノートタイプ&lt;br/&gt;- プレイヤーの好みに合わせてノート表示方式をカスタマイズ可能&lt;br/&gt;- ビートとリズムによる強烈なフィードバック&lt;br/&gt;- カジュアルからチャレンジまで対応する幅広い難易度は9レベル以上&lt;br/&gt;- ポップス、ジャズ、トランス、ハードコア、ドラムンベースなど多様なジャンルの楽曲&lt;br/&gt;- Game Centerランキング対応:世界中のプレイヤーにチャレンジ!&lt;br/&gt;- FacebookでCytusの腕前を披露しよう&lt;br/&gt;&lt;br/&gt;*操作方法*&lt;br/&gt;- アクティブスキャンラインに合わせてプレイします&lt;br/&gt;- ラインが各ノートを通過する時にタップ&lt;br/&gt;- 高スコアを狙うには、ラインが各ノートにちょうど重なった時を見計らってタップしましょう&lt;br/&gt;&lt;br/&gt;*ストーリー*&lt;br/&gt;遠い未来のこと。かつて人間が持っていた魂の最後の名残として、ロボットだけが感覚を持つものとして残っていました。&lt;br/&gt;&lt;br/&gt;しかし、人類は滅んだわけではありませんでした。&lt;br/&gt;こうしたロボットたちに記憶を転送できるテクノロジーが、その空間には限りはあるものの、&lt;br/&gt;新しい記憶が古い記憶を徐々に置き換えていくのです。&lt;br/&gt;&lt;br/&gt;人間の記憶に残る感情が薄れてなくなることがないように、ロボットたちはその感情を音楽に変換し、Cytusと呼ばれた場所に保存し始めました。&lt;br/&gt;彼らは、音楽を用いて人間の感情を体験することで、それぞれの魂の存在を夢見ているのです……。&lt;br/&gt;&lt;br/&gt;Cytus&lt;br/&gt;---------------------------------------------------&lt;br/&gt;Cytusオフィシャルサイト:  www.rayark.com/g/cytus&lt;br/&gt;Rayarkオフィシャルサイト: www.rayark.com&lt;br/&gt;Follow Cytus https://twitter.com/CytusRayark&lt;br/&gt;Like   Cytus http://www.facebook.com/rayark.Cytus&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; © 2012, Rayark Inc.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2013-08-23T21:39:46-07:00</updated>
+				
+					<id im:id="640111933" im:bundleId="zombiegun3d">https://itunes.apple.com/jp/app/pixel-gun-3d-block-world-pocket/id640111933?mt=8&amp;uo=2</id>
+				
+					<title>Pixel Gun 3D - Block World Pocket Survival Shooter with Skins Maker for minecraft (PC edition) &amp; Multiplayer - Alex Krasnov</title>
+				
+					<summary>Pixel Gun 3D in MULTIPLAYER MODE! Now with WORLDWIDE MODE! 
+Now you have a perfect chance to battle with you friends, classmates and colleagues or anyone else around the world! You can create and customize your character using a special skinmaker and then show off on the battle field! 
+
+*** MULTIPLAYER DEATHMATCH *** 
+
+Multiplayer mode benefits: 
+• WOWLDWIDE and local 
+• 9 unique maps of various shapes and sizes; 
+• varied weaponry, ranging from Magic Bow, Combat M16 Rifle, Golden Desert Eagle to the simpliest things, in case you want to butcher smn with a knife; 
+• 10 players in one game support; 
+• challenging and exciting experience that can really get you hooked! 
+
+
+*** SURVIVAL CAMPAIGN *** 
+
+In that mode your character is “face to face” to hordes of zombies attacking you from all sides. But you have to wipe them out otherwise you are doomed! 
+Your only, but not the simpliest goal is to whack monsters. Having made mincemeat of them, you will be able to open the portal to the next fields! 
+
+New cool features in campaign mode: 
+• a new training camp for first-timers; 
+•more detailed graphics; 
+• more challenging gameplay: now you are not able to pass through enemies. Watch out for narrow passages and lanes! There you stand almost no chance at life! 
+Make up your mind about the gun (though you can prefer a bow or knife) and polish up your killing skills! Perform at your best and share it on Facebook and Twitter! 
+
+Main Features of campaign mode: 
+•Wide choice of armoury, such as Colt, Heavy machine gun, AK47, UZI, and many others; 
+• 10 cool absolutely different maps; 
+• Many types of zombies and enemies; 
+• Awesome HD pixel graphics with dynamic light; 
+• Breathtaking sound effects ! Use headphones for maximum fun! 
+
+*** SKINS MAKER *** 
+
+Pixlgun 3D is not only an awesome 3D shooter but also a useful SKINS MAKER for your character in Minecraft! Using this tool you can choose one of the presets or customize your own skin with the help of special drawing tools. Then you can upload skin to your Mojang account and play Minecraft with fun at your computer (unfortunately, skins maker is available only for PC version of Minecraft, because the iPhone/ iPad d operating systems don’t support these functions) 
+
+Thank you for all the comments, we really appreciate it. In this version we tried to fulfill your wishes and pieces of advice. Wait for the next updates with new benefits! 
+
+--------------------------------------------------------------------------------- 
+This is not an official Mojang app. Alex Krasnov is not associated or connected with Majong AB. Minecraft is a trademark of Mojang AB and it is not endorsed by or affiliated with the creator of this game or its licensers.</summary>
+				
+					<im:name>Pixel Gun 3D - Block World Pocket Survival Shooter with Skins Maker for minecraft (PC edition) &amp; Multiplayer</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/app/pixel-gun-3d-block-world-pocket/id640111933?mt=8&amp;uo=2"/>
+				
+					<im:contentType term="Application" label="アプリケーション"/>
+				
+					<category im:id="6014" term="Games" scheme="https://itunes.apple.com/jp/genre/ios-gemu/id6014?mt=8&amp;uo=2" label="ゲーム"/>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/alex-krasnov/id561634640?mt=8&amp;uo=2">Alex Krasnov</im:artist>
+				
+					<im:price amount="85.00000" currency="JPY">¥85</im:price>
+				
+					<im:image height="53">http://a286.phobos.apple.com/us/r1000/053/Purple/v4/f7/c2/77/f7c2772e-08de-46c7-4933-b57bce8200c6/mzl.eaqaptgl.53x53-50.png</im:image>
+				
+					<im:image height="75">http://a1154.phobos.apple.com/us/r1000/053/Purple/v4/f7/c2/77/f7c2772e-08de-46c7-4933-b57bce8200c6/mzl.eaqaptgl.75x75-65.png</im:image>
+				
+					<im:image height="100">http://a1519.phobos.apple.com/us/r1000/053/Purple/v4/f7/c2/77/f7c2772e-08de-46c7-4933-b57bce8200c6/mzl.eaqaptgl.100x100-75.png</im:image>
+				
+					<rights>&#169; RiliSoft</rights>
+				
+					<im:releaseDate label="2013年5月2日 ">2013-05-02T13:54:10-07:00</im:releaseDate>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/app/pixel-gun-3d-block-world-pocket/id640111933?mt=8&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Alex Krasnov - Pixel Gun 3D - Block World Pocket Survival Shooter with Skins Maker for minecraft (PC edition) &amp; Multiplayer アートワーク&quot; src=&quot;http://a1519.phobos.apple.com/us/r1000/053/Purple/v4/f7/c2/77/f7c2772e-08de-46c7-4933-b57bce8200c6/mzl.eaqaptgl.100x100-75.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/app/pixel-gun-3d-block-world-pocket/id640111933?mt=8&amp;uo=2&quot;&gt;Pixel Gun 3D - Block World Pocket Survival Shooter with Skins Maker for minecraft (PC edition) &amp;amp; Multiplayer&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/alex-krasnov/id561634640?mt=8&amp;amp;uo=2&quot;&gt;Alex Krasnov&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/ios-gemu/id6014?mt=8&amp;uo=2&quot;&gt;ゲーム&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥85
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2013年5月2日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;Pixel Gun 3D in MULTIPLAYER MODE! Now with WORLDWIDE MODE! &lt;br/&gt;Now you have a perfect chance to battle with you friends, classmates and colleagues or anyone else around the world! You can create and customize your character using a special skinmaker and then show off on the battle field! &lt;br/&gt;&lt;br/&gt;*** MULTIPLAYER DEATHMATCH *** &lt;br/&gt;&lt;br/&gt;Multiplayer mode benefits: &lt;br/&gt;• WOWLDWIDE and local &lt;br/&gt;• 9 unique maps of various shapes and sizes; &lt;br/&gt;• varied weaponry, ranging from Magic Bow, Combat M16 Rifle, Golden Desert Eagle to the simpliest things, in case you want to butcher smn with a knife; &lt;br/&gt;• 10 players in one game support; &lt;br/&gt;• challenging and exciting experience that can really get you hooked! &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;*** SURVIVAL CAMPAIGN *** &lt;br/&gt;&lt;br/&gt;In that mode your character is “face to face” to hordes of zombies attacking you from all sides. But you have to wipe them out otherwise you are doomed! &lt;br/&gt;Your only, but not the simpliest goal is to whack monsters. Having made mincemeat of them, you will be able to open the portal to the next fields! &lt;br/&gt;&lt;br/&gt;New cool features in campaign mode: &lt;br/&gt;• a new training camp for first-timers; &lt;br/&gt;•more detailed graphics; &lt;br/&gt;• more challenging gameplay: now you are not able to pass through enemies. Watch out for narrow passages and lanes! There you stand almost no chance at life! &lt;br/&gt;Make up your mind about the gun (though you can prefer a bow or knife) and polish up your killing skills! Perform at your best and share it on Facebook and Twitter! &lt;br/&gt;&lt;br/&gt;Main Features of campaign mode: &lt;br/&gt;•Wide choice of armoury, such as Colt, Heavy machine gun, AK47, UZI, and many others; &lt;br/&gt;• 10 cool absolutely different maps; &lt;br/&gt;• Many types of zombies and enemies; &lt;br/&gt;• Awesome HD pixel graphics with dynamic light; &lt;br/&gt;• Breathtaking sound effects ! Use headphones for maximum fun! &lt;br/&gt;&lt;br/&gt;*** SKINS MAKER *** &lt;br/&gt;&lt;br/&gt;Pixlgun 3D is not only an awesome 3D shooter but also a useful SKINS MAKER for your character in Minecraft! Using this tool you can choose one of the presets or customize your own skin with the help of special drawing tools. Then you can upload skin to your Mojang account and play Minecraft with fun at your computer (unfortunately, skins maker is available only for PC version of Minecraft, because the iPhone/ iPad d operating systems don’t support these functions) &lt;br/&gt;&lt;br/&gt;Thank you for all the comments, we really appreciate it. In this version we tried to fulfill your wishes and pieces of advice. Wait for the next updates with new benefits! &lt;br/&gt;&lt;br/&gt;--------------------------------------------------------------------------------- &lt;br/&gt;This is not an official Mojang app. Alex Krasnov is not associated or connected with Majong AB. Minecraft is a trademark of Mojang AB and it is not endorsed by or affiliated with the creator of this game or its licensers.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; © RiliSoft&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2013-08-23T21:39:46-07:00</updated>
+				
+					<id im:id="663664240" im:bundleId="com.square-enix.bloodmasque.j">https://itunes.apple.com/jp/app/bloodmasque/id663664240?mt=8&amp;uo=2</id>
+				
+					<title>BLOODMASQUE - SQUARE ENIX</title>
+				
+					<summary>福士蒼汰さん出演のTV-CMが全国で放映中！
+■対応機種
+　iPhone 4S 以降、iPod touch 第５世代以降、iPad 2 以降
+注意：プレイにはネットワーク接続が必要です。
+
+
+“汝、その敵はヴァンパイアなり。”
+呪われた血に宿る力を解き放ち、深淵の闇を斬り裂け！
+
+撮影した写真を貼り付けて自分そっくりのキャラクターが作れる
+新感覚のアクションＲＰＧが登場！
+
+自分の顔写真や既存の画像を使ってキャラクターを作り、
+あなた自身がヴァンパイアたちと戦うのです！
+さらにネットワークを通じて、見覚えのある顔をした友達のハンター達が
+仲間となって共に戦ってくれます
+
+
+ストーリー紹介
+　我々が知るそれとは少し異なる19世紀末のフランス・パリ
+　人類はヴァンパイアに支配され、闇夜が世界を包んでいた。
+　ヴァンパイアと人間との混血であるヴァンパイアハンター達は、
+　世界を人間の手に取り戻すため、今宵も夕闇を駆ける。
+
+ゲーム紹介
+■自分の顔を取り込み、主人公になれる
+　撮影した顔写真を貼りつければ、あなたの顔をしたハンターの出来上がりです。
+　通常、喜び、怒りの３パターンの表情を設定すれば、
+　バトルシーンはもちろん物語を彩るカットシーンでも、あなた自身が躍動するのです。
+　写真を貼っても非公開に設定できる安心設計に加え、
+　写真を使わないキャラエディットにも豊富なバリエーションを用意しております。
+
+　著作権を侵害したり、公序良俗に反する画像の使用はお控え下さい。
+　禁止事項について、詳しくは利用規約をご参照下さい。
+
+■仲間ハンターは誰かの主人公
+　ミッションに同行させる仲間ハンター(バディ)は、誰かの主人公です。
+　友達のキャラクターと共に、　凶悪なヴァンパイアに挑みましょう。
+
+■シンプル操作なでダイナミックなゲームプレイが体感できる
+　タップで攻撃＆スワイプで回避、というシンプルな操作で、
+　遊びごたえのあるバトルをお楽しみ頂けます。
+
+■美麗なグラフィックと豪華なサウンド
+　iPhone、iPadの性能を限界まで突き詰めたグラフィッククオリティと
+　オーケストラで生収録を行った珠玉のサウンドをご堪能下さい。
+
+その他のお知らせ
+■プレイ時間と追加課金のバランス
+　ゲームクリアまでのプレイ時間は、ゲームが得意な人で約１０時間。
+　じっくり遊び尽くすプレイスタイルだと約２０時間かかります。
+
+　BLOODMASQUEはストーリーのエンディングを迎えるまで
+　追加課金をしなくてもクリアできるようにバランス設計しています。
+
+■消費電力
+　BLOODMASQUEは電力の消費が多めです。
+　電池残量には気をつけてプレイして下さい。
+
+■アプリ容量
+　BLOODMASQUEをプレイするには１．２ＧＢほどの本体容量が必要です。
+　デバイスの空き容量にお気をつけてお買い求め下さい。
+　ダウンロードの際には、デバイスを同期しているPCやMacでのiTunes経由、
+　または電源に接続した状態でのWiFi環境化での実行を推奨致します。
+
+■クラッシュバグやその他の不具合について
+　プレイができない等の不具合が発生した場合には、サポートセンターにお問い合わせ下さい。
+　http://support.jp.square-enix.com/</summary>
+				
+					<im:name>BLOODMASQUE</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/app/bloodmasque/id663664240?mt=8&amp;uo=2"/>
+				
+					<im:contentType term="Application" label="アプリケーション"/>
+				
+					<category im:id="6014" term="Games" scheme="https://itunes.apple.com/jp/genre/ios-gemu/id6014?mt=8&amp;uo=2" label="ゲーム"/>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/sukuu-ea-enikkusu/id300186801?mt=8&amp;uo=2">SQUARE ENIX</im:artist>
+				
+					<im:price amount="600.00000" currency="JPY">¥600</im:price>
+				
+					<im:image height="53">http://a1967.phobos.apple.com/us/r1000/018/Purple4/v4/08/0a/0a/080a0a4c-e284-774f-634c-a32e2fbffb45/mzl.pjigkryk.53x53-50.png</im:image>
+				
+					<im:image height="75">http://a483.phobos.apple.com/us/r1000/018/Purple4/v4/08/0a/0a/080a0a4c-e284-774f-634c-a32e2fbffb45/mzl.pjigkryk.75x75-65.png</im:image>
+				
+					<im:image height="100">http://a208.phobos.apple.com/us/r1000/018/Purple4/v4/08/0a/0a/080a0a4c-e284-774f-634c-a32e2fbffb45/mzl.pjigkryk.100x100-75.png</im:image>
+				
+					<rights>&#169; 2013 SQUARE ENIX CO., LTD.</rights>
+				
+					<im:releaseDate label="2013年7月25日 ">2013-07-25T00:00:00-07:00</im:releaseDate>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/app/bloodmasque/id663664240?mt=8&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;SQUARE ENIX - BLOODMASQUE アートワーク&quot; src=&quot;http://a208.phobos.apple.com/us/r1000/018/Purple4/v4/08/0a/0a/080a0a4c-e284-774f-634c-a32e2fbffb45/mzl.pjigkryk.100x100-75.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/app/bloodmasque/id663664240?mt=8&amp;uo=2&quot;&gt;BLOODMASQUE&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/sukuu-ea-enikkusu/id300186801?mt=8&amp;amp;uo=2&quot;&gt;SQUARE ENIX&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/ios-gemu/id6014?mt=8&amp;uo=2&quot;&gt;ゲーム&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥600
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2013年7月25日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;福士蒼汰さん出演のTV-CMが全国で放映中！&lt;br/&gt;■対応機種&lt;br/&gt;　iPhone 4S 以降、iPod touch 第５世代以降、iPad 2 以降&lt;br/&gt;注意：プレイにはネットワーク接続が必要です。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;“汝、その敵はヴァンパイアなり。”&lt;br/&gt;呪われた血に宿る力を解き放ち、深淵の闇を斬り裂け！&lt;br/&gt;&lt;br/&gt;撮影した写真を貼り付けて自分そっくりのキャラクターが作れる&lt;br/&gt;新感覚のアクションＲＰＧが登場！&lt;br/&gt;&lt;br/&gt;自分の顔写真や既存の画像を使ってキャラクターを作り、&lt;br/&gt;あなた自身がヴァンパイアたちと戦うのです！&lt;br/&gt;さらにネットワークを通じて、見覚えのある顔をした友達のハンター達が&lt;br/&gt;仲間となって共に戦ってくれます&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;ストーリー紹介&lt;br/&gt;　我々が知るそれとは少し異なる19世紀末のフランス・パリ&lt;br/&gt;　人類はヴァンパイアに支配され、闇夜が世界を包んでいた。&lt;br/&gt;　ヴァンパイアと人間との混血であるヴァンパイアハンター達は、&lt;br/&gt;　世界を人間の手に取り戻すため、今宵も夕闇を駆ける。&lt;br/&gt;&lt;br/&gt;ゲーム紹介&lt;br/&gt;■自分の顔を取り込み、主人公になれる&lt;br/&gt;　撮影した顔写真を貼りつければ、あなたの顔をしたハンターの出来上がりです。&lt;br/&gt;　通常、喜び、怒りの３パターンの表情を設定すれば、&lt;br/&gt;　バトルシーンはもちろん物語を彩るカットシーンでも、あなた自身が躍動するのです。&lt;br/&gt;　写真を貼っても非公開に設定できる安心設計に加え、&lt;br/&gt;　写真を使わないキャラエディットにも豊富なバリエーションを用意しております。&lt;br/&gt;&lt;br/&gt;　著作権を侵害したり、公序良俗に反する画像の使用はお控え下さい。&lt;br/&gt;　禁止事項について、詳しくは利用規約をご参照下さい。&lt;br/&gt;&lt;br/&gt;■仲間ハンターは誰かの主人公&lt;br/&gt;　ミッションに同行させる仲間ハンター(バディ)は、誰かの主人公です。&lt;br/&gt;　友達のキャラクターと共に、　凶悪なヴァンパイアに挑みましょう。&lt;br/&gt;&lt;br/&gt;■シンプル操作なでダイナミックなゲームプレイが体感できる&lt;br/&gt;　タップで攻撃＆スワイプで回避、というシンプルな操作で、&lt;br/&gt;　遊びごたえのあるバトルをお楽しみ頂けます。&lt;br/&gt;&lt;br/&gt;■美麗なグラフィックと豪華なサウンド&lt;br/&gt;　iPhone、iPadの性能を限界まで突き詰めたグラフィッククオリティと&lt;br/&gt;　オーケストラで生収録を行った珠玉のサウンドをご堪能下さい。&lt;br/&gt;&lt;br/&gt;その他のお知らせ&lt;br/&gt;■プレイ時間と追加課金のバランス&lt;br/&gt;　ゲームクリアまでのプレイ時間は、ゲームが得意な人で約１０時間。&lt;br/&gt;　じっくり遊び尽くすプレイスタイルだと約２０時間かかります。&lt;br/&gt;&lt;br/&gt;　BLOODMASQUEはストーリーのエンディングを迎えるまで&lt;br/&gt;　追加課金をしなくてもクリアできるようにバランス設計しています。&lt;br/&gt;&lt;br/&gt;■消費電力&lt;br/&gt;　BLOODMASQUEは電力の消費が多めです。&lt;br/&gt;　電池残量には気をつけてプレイして下さい。&lt;br/&gt;&lt;br/&gt;■アプリ容量&lt;br/&gt;　BLOODMASQUEをプレイするには１．２ＧＢほどの本体容量が必要です。&lt;br/&gt;　デバイスの空き容量にお気をつけてお買い求め下さい。&lt;br/&gt;　ダウンロードの際には、デバイスを同期しているPCやMacでのiTunes経由、&lt;br/&gt;　または電源に接続した状態でのWiFi環境化での実行を推奨致します。&lt;br/&gt;&lt;br/&gt;■クラッシュバグやその他の不具合について&lt;br/&gt;　プレイができない等の不具合が発生した場合には、サポートセンターにお問い合わせ下さい。&lt;br/&gt;　http://support.jp.square-enix.com/&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; © 2013 SQUARE ENIX CO., LTD.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2013-08-23T21:39:46-07:00</updated>
+				
+					<id im:id="673497868" im:bundleId="com.adinnovation.nikki2">https://itunes.apple.com/jp/app/nikino-aisarekode/id673497868?mt=8&amp;uo=2</id>
+				
+					<title>ニキの愛されコーデ - adinnovation, Inc.</title>
+				
+					<summary>ニキの愛されコーデが今年の夏にやってくる！
+前作のNikki UP2U：A dressing storyは有料ランキング1位、Top10内に数ヶ月間ランクイン！
+
+サプライズ誕生日プレゼント、宝の地図、広大な世界での旅が今はじまる…。
+1000以上のアバターコレクションを増やすもよし、材料を収集し、新しいデザインの服を作りだすもよし、何よりこの世界にはあなたをスリリングな旅へと誘う物語が待っています。
+旅の途中にはあなたのセンスを磨くための数多くのクエストが配置され、最適なコーディネートを見つけた時、あなたはクエストをクリアすることができるでしょう。
+あなたの普段のコーディネートセンスが、このゲームをクリアする鍵となるかも！？最後に1つ重要なことをお伝えしておきましょう。それは、ニキと洋服屋の店長との関係を良好に保つことです。プレゼントをするなど良好な関係を保つことでいいことがあるかもしれません…！
+ニキの姉ニナとモモは、ニキと共に旅をしてくれるキャラクターです。綿密なストーリーと数多くの可愛いアイテムと共に旅を充実させましょう。この旅を終えた時、あなたはこの旅の真の目的を知ることになるでしょう！
+゜・。。・゜゜・。。・゜゜・。。・゜゜・。。・゜゜・。。・゜゜・。。・゜゜・。。・゜゜・。。・゜゜・。。・゜゜・。。・゜゜・。 
+ゲームの特徴：
+1、RPGとコーディネートが融合！旅の中では次々登場するキャラクターとのコミュニケーションもでき、新たなクエストへの挑戦もできる！
+2、続々追加されるアバターアイテム！オリジナルのアバターをデザインしましょう！
+3、前作をはるかに超えたグラフィック、今までにないクオリティが体験できる！
+4、あなたの友達と競い合って、ファッションセンスを磨きましょう！
+5、大量の素材を収集し、刺激的な謎小屋を体験してください。たくさんのプレゼントも用意しています。
+6、育成の要素も加えつつ、たくさんのサプライズを体感してみてください！
+゜・。。・゜゜・。。・゜゜・。。・゜゜・。。・゜゜・。。・゜゜・。。・゜゜・。。・゜゜・。。・゜゜・。。・゜゜・。。・゜゜・。 
+もしニキのことが好きなら、友達にも薦めてくださいね！
+ 
+連絡先：
+ニキのTwiter：@NikkiUP2U
+https://twitter.com/NikkiUP2U
+Facebook：https://www.facebook.com/pages/PapeStudio/381128665301250
+Email：lab@adinnovation.jp</summary>
+				
+					<im:name>ニキの愛されコーデ</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/app/nikino-aisarekode/id673497868?mt=8&amp;uo=2"/>
+				
+					<im:contentType term="Application" label="アプリケーション"/>
+				
+					<category im:id="6014" term="Games" scheme="https://itunes.apple.com/jp/genre/ios-gemu/id6014?mt=8&amp;uo=2" label="ゲーム"/>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/adinnovation-inc./id498947096?mt=8&amp;uo=2">adinnovation, Inc.</im:artist>
+				
+					<im:price amount="85.00000" currency="JPY">¥85</im:price>
+				
+					<im:image height="53">http://a1233.phobos.apple.com/us/r1000/031/Purple6/v4/ca/77/80/ca7780a3-f031-527a-5732-8320076bd369/mzl.agxjiarn.53x53-50.png</im:image>
+				
+					<im:image height="75">http://a1749.phobos.apple.com/us/r1000/031/Purple6/v4/ca/77/80/ca7780a3-f031-527a-5732-8320076bd369/mzl.agxjiarn.75x75-65.png</im:image>
+				
+					<im:image height="100">http://a658.phobos.apple.com/us/r1000/031/Purple6/v4/ca/77/80/ca7780a3-f031-527a-5732-8320076bd369/mzl.agxjiarn.100x100-75.png</im:image>
+				
+					<rights>&#169; 2013 PapeGames Inc.</rights>
+				
+					<im:releaseDate label="2013年8月7日 ">2013-08-07T17:40:17-07:00</im:releaseDate>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/app/nikino-aisarekode/id673497868?mt=8&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;adinnovation, Inc. - ニキの愛されコーデ アートワーク&quot; src=&quot;http://a658.phobos.apple.com/us/r1000/031/Purple6/v4/ca/77/80/ca7780a3-f031-527a-5732-8320076bd369/mzl.agxjiarn.100x100-75.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/app/nikino-aisarekode/id673497868?mt=8&amp;uo=2&quot;&gt;ニキの愛されコーデ&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/adinnovation-inc./id498947096?mt=8&amp;amp;uo=2&quot;&gt;adinnovation, Inc.&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/ios-gemu/id6014?mt=8&amp;uo=2&quot;&gt;ゲーム&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥85
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2013年8月7日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;ニキの愛されコーデが今年の夏にやってくる！&lt;br/&gt;前作のNikki UP2U：A dressing storyは有料ランキング1位、Top10内に数ヶ月間ランクイン！&lt;br/&gt;&lt;br/&gt;サプライズ誕生日プレゼント、宝の地図、広大な世界での旅が今はじまる…。&lt;br/&gt;1000以上のアバターコレクションを増やすもよし、材料を収集し、新しいデザインの服を作りだすもよし、何よりこの世界にはあなたをスリリングな旅へと誘う物語が待っています。&lt;br/&gt;旅の途中にはあなたのセンスを磨くための数多くのクエストが配置され、最適なコーディネートを見つけた時、あなたはクエストをクリアすることができるでしょう。&lt;br/&gt;あなたの普段のコーディネートセンスが、このゲームをクリアする鍵となるかも！？最後に1つ重要なことをお伝えしておきましょう。それは、ニキと洋服屋の店長との関係を良好に保つことです。プレゼントをするなど良好な関係を保つことでいいことがあるかもしれません…！&lt;br/&gt;ニキの姉ニナとモモは、ニキと共に旅をしてくれるキャラクターです。綿密なストーリーと数多くの可愛いアイテムと共に旅を充実させましょう。この旅を終えた時、あなたはこの旅の真の目的を知ることになるでしょう！&lt;br/&gt;゜・。。・゜゜・。。・゜゜・。。・゜゜・。。・゜゜・。。・゜゜・。。・゜゜・。。・゜゜・。。・゜゜・。。・゜゜・。。・゜゜・。 &lt;br/&gt;ゲームの特徴：&lt;br/&gt;1、RPGとコーディネートが融合！旅の中では次々登場するキャラクターとのコミュニケーションもでき、新たなクエストへの挑戦もできる！&lt;br/&gt;2、続々追加されるアバターアイテム！オリジナルのアバターをデザインしましょう！&lt;br/&gt;3、前作をはるかに超えたグラフィック、今までにないクオリティが体験できる！&lt;br/&gt;4、あなたの友達と競い合って、ファッションセンスを磨きましょう！&lt;br/&gt;5、大量の素材を収集し、刺激的な謎小屋を体験してください。たくさんのプレゼントも用意しています。&lt;br/&gt;6、育成の要素も加えつつ、たくさんのサプライズを体感してみてください！&lt;br/&gt;゜・。。・゜゜・。。・゜゜・。。・゜゜・。。・゜゜・。。・゜゜・。。・゜゜・。。・゜゜・。。・゜゜・。。・゜゜・。。・゜゜・。 &lt;br/&gt;もしニキのことが好きなら、友達にも薦めてくださいね！&lt;br/&gt; &lt;br/&gt;連絡先：&lt;br/&gt;ニキのTwiter：@NikkiUP2U&lt;br/&gt;https://twitter.com/NikkiUP2U&lt;br/&gt;Facebook：https://www.facebook.com/pages/PapeStudio/381128665301250&lt;br/&gt;Email：lab@adinnovation.jp&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; © 2013 PapeGames Inc.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2013-08-23T21:39:46-07:00</updated>
+				
+					<id im:id="680457833" im:bundleId="com.universal777.arz206">https://itunes.apple.com/jp/app/ludon-kirameki!-yannoorora/id680457833?mt=8&amp;uo=2</id>
+				
+					<title>緑ドン〜キラメキ！炎のオーロラ伝説〜 - ARUZE MEDIA NET CORP.</title>
+				
+					<summary>本アプリはパチスロ機『緑ドン ～キラメキ！炎のオーロラ伝説～』を忠実に再現したアプリケーションです。
+
+※必ずご一読ください※
+本アプリケーションを購入するにあたり、記述されている文言を必ずご一読の上、購入をご検討ください。
+いかなる場合につきましても本アプリケーションの返品につきましては弊社側で行えません。ご了承ください。
+
+■対応機種
+iPhone4S以上/iPad2以上
+■対応OS
+iOS6.1.3以上
+※上記の『対応機種』『対応OS』にて弊社側では正常に動作する事を確認しております。
+上記より型式やOSが古い機種では正常に動作しません。ご了承ください。
+ (CPUスペック及びメモリ容量の関係の為です)
+
+■アプリ紹介
+魅せろ緑!!躍動V-RUSH!!
+
+◎“待望の緑”やっぱり「緑ドン」!!
+中国、南米に続き、今度は北欧で花火修行!!
+2種類のARTで、緑ドンちゃんとビリーが大活躍!!
+◎“超絶の緑”上乗せ!!倍乗せチャンス!!
+ビリータッチ成功の度に上乗せG数倍増の「V-RUSH」搭載!!
+「V-RUSH EX」なら、毎ゲーム320G上乗せ!?
+◎“躍動の緑”A+ARTの安定スペック!!
+本物ボーナス搭載の安心スペック!!
+ボーナスとARTのループで“BIG WAVE”到来!!
+
+※注意※
+・アプリ内で表示される数値は、あくまでシミュレート値であり、実際のパチスロ機とは異なる場合があります。
+・ブラウザでページを開きすぎると、起動できなかったり、動作が不安定になる事があります。
+・端末/OSのプログラム等を改造もしくは改変した場合、対応環境であっても起動しなくなる可能性があります。その場合、サポートの対象外になります。予めご了承ください。
+・本アプリは大容量アプリです。ダウンロードを行うには『パソコンでのご購入→同期』
+もしくは『Wi-Fi』環境下でのダウンロードをお願い致します。またダウンロードは電波環境の良い所でお願い致します。
+・アプリのMENU&gt;その他の設定&gt;セッティング&gt;液晶解像度を調整する事により、動作速度が向上する場合がございます。
+
+JASRAC許諾番号:9013316019Y43030
+このアプリケーションは、㈱CRI・ミドルウェアの「CRI WARE mobile(TM)」を使用しています。</summary>
+				
+					<im:name>緑ドン〜キラメキ！炎のオーロラ伝説〜</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/jp/app/ludon-kirameki!-yannoorora/id680457833?mt=8&amp;uo=2"/>
+				
+					<im:contentType term="Application" label="アプリケーション"/>
+				
+					<category im:id="6014" term="Games" scheme="https://itunes.apple.com/jp/genre/ios-gemu/id6014?mt=8&amp;uo=2" label="ゲーム"/>
+				
+					<im:artist href="https://itunes.apple.com/jp/artist/aruze-media-net-corp./id364543998?mt=8&amp;uo=2">ARUZE MEDIA NET CORP.</im:artist>
+				
+					<im:price amount="1900.00000" currency="JPY">¥1,900</im:price>
+				
+					<im:image height="53">http://a470.phobos.apple.com/us/r1000/006/Purple4/v4/c6/52/3f/c6523f06-f271-b7c0-b621-2dbf03b66e72/mzl.yhcmgzax.53x53-50.png</im:image>
+				
+					<im:image height="75">http://a986.phobos.apple.com/us/r1000/006/Purple4/v4/c6/52/3f/c6523f06-f271-b7c0-b621-2dbf03b66e72/mzl.yhcmgzax.75x75-65.png</im:image>
+				
+					<im:image height="100">http://a39.phobos.apple.com/us/r1000/006/Purple4/v4/c6/52/3f/c6523f06-f271-b7c0-b621-2dbf03b66e72/mzl.yhcmgzax.100x100-75.png</im:image>
+				
+					<rights>&#169;UNIVERSAL ENTERTAINMENT (&#169;UE)</rights>
+				
+					<im:releaseDate label="2013年8月8日 ">2013-08-08T21:43:58-07:00</im:releaseDate>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/jp/app/ludon-kirameki!-yannoorora/id680457833?mt=8&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;ARUZE MEDIA NET CORP. - 緑ドン〜キラメキ！炎のオーロラ伝説〜 アートワーク&quot; src=&quot;http://a39.phobos.apple.com/us/r1000/006/Purple4/v4/c6/52/3f/c6523f06-f271-b7c0-b621-2dbf03b66e72/mzl.yhcmgzax.100x100-75.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/jp/app/ludon-kirameki!-yannoorora/id680457833?mt=8&amp;uo=2&quot;&gt;緑ドン〜キラメキ！炎のオーロラ伝説〜&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        &lt;a href=&quot;https://itunes.apple.com/jp/artist/aruze-media-net-corp./id364543998?mt=8&amp;amp;uo=2&quot;&gt;ARUZE MEDIA NET CORP.&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/jp/genre/ios-gemu/id6014?mt=8&amp;uo=2&quot;&gt;ゲーム&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥1,900
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2013年8月8日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;本アプリはパチスロ機『緑ドン ～キラメキ！炎のオーロラ伝説～』を忠実に再現したアプリケーションです。&lt;br/&gt;&lt;br/&gt;※必ずご一読ください※&lt;br/&gt;本アプリケーションを購入するにあたり、記述されている文言を必ずご一読の上、購入をご検討ください。&lt;br/&gt;いかなる場合につきましても本アプリケーションの返品につきましては弊社側で行えません。ご了承ください。&lt;br/&gt;&lt;br/&gt;■対応機種&lt;br/&gt;iPhone4S以上/iPad2以上&lt;br/&gt;■対応OS&lt;br/&gt;iOS6.1.3以上&lt;br/&gt;※上記の『対応機種』『対応OS』にて弊社側では正常に動作する事を確認しております。&lt;br/&gt;上記より型式やOSが古い機種では正常に動作しません。ご了承ください。&lt;br/&gt; (CPUスペック及びメモリ容量の関係の為です)&lt;br/&gt;&lt;br/&gt;■アプリ紹介&lt;br/&gt;魅せろ緑!!躍動V-RUSH!!&lt;br/&gt;&lt;br/&gt;◎“待望の緑”やっぱり「緑ドン」!!&lt;br/&gt;中国、南米に続き、今度は北欧で花火修行!!&lt;br/&gt;2種類のARTで、緑ドンちゃんとビリーが大活躍!!&lt;br/&gt;◎“超絶の緑”上乗せ!!倍乗せチャンス!!&lt;br/&gt;ビリータッチ成功の度に上乗せG数倍増の「V-RUSH」搭載!!&lt;br/&gt;「V-RUSH EX」なら、毎ゲーム320G上乗せ!?&lt;br/&gt;◎“躍動の緑”A+ARTの安定スペック!!&lt;br/&gt;本物ボーナス搭載の安心スペック!!&lt;br/&gt;ボーナスとARTのループで“BIG WAVE”到来!!&lt;br/&gt;&lt;br/&gt;※注意※&lt;br/&gt;・アプリ内で表示される数値は、あくまでシミュレート値であり、実際のパチスロ機とは異なる場合があります。&lt;br/&gt;・ブラウザでページを開きすぎると、起動できなかったり、動作が不安定になる事があります。&lt;br/&gt;・端末/OSのプログラム等を改造もしくは改変した場合、対応環境であっても起動しなくなる可能性があります。その場合、サポートの対象外になります。予めご了承ください。&lt;br/&gt;・本アプリは大容量アプリです。ダウンロードを行うには『パソコンでのご購入→同期』&lt;br/&gt;もしくは『Wi-Fi』環境下でのダウンロードをお願い致します。またダウンロードは電波環境の良い所でお願い致します。&lt;br/&gt;・アプリのMENU&amp;gt;その他の設定&amp;gt;セッティング&amp;gt;液晶解像度を調整する事により、動作速度が向上する場合がございます。&lt;br/&gt;&lt;br/&gt;JASRAC許諾番号:9013316019Y43030&lt;br/&gt;このアプリケーションは、㈱CRI・ミドルウェアの「CRI WARE mobile(TM)」を使用しています。&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ©UNIVERSAL ENTERTAINMENT (©UE)&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+	</feed>

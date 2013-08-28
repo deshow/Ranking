@@ -1,0 +1,14 @@
+  CREATE TABLE MF750401 
+   (
+    id int(10) primary key,	
+    J4AN8 int, 
+	J4TRAP VARCHAR(3), 
+	J4JPTY VARCHAR(1), 
+	J4USER VARCHAR(10), 
+	J4PID VARCHAR(10), 
+	J4UPMJ int(6), 
+	J4JOBN VARCHAR(10), 
+	J4UPMT int, 
+	J4WTCJP VARCHAR(1), 
+	J4DRATIO int
+   )

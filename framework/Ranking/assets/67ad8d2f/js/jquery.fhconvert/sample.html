@@ -1,0 +1,107 @@
+<!DOCTYPE HTML>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>fhconvert test</title>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script type="text/javascript" src="./fhconvert.js"></script>
+<script type="text/javascript" src="./jquery.fhconvert.min.js"></script>
+<script type="text/javascript">
+$(function() {
+    // 諸事情でinputにdata属性がつけれないことを考慮した書き方
+    $('.fhconvert').each(function() {
+        var $this = $(this);
+        //inputの場合はそのままフォーカスアウトに指定する
+        if($this[0].tagName === 'INPUT') {
+            $this.focusout(function() {
+                $(this).fhconvert();
+            });
+        } else {
+            //inputでない場合は、inputにデータ属性をコピーする
+            $input = $this.find('input');
+            $input.data('fhconvert', $this.data('fhconvert'));
+            
+            $input.focusout(function() {
+                $(this).fhconvert();
+            });
+        }
+    });
+});
+</script>
+<style type="text/css">
+#head {
+    font-weight:bold;
+    margin-bottom:20px;
+}
+#main {
+    width: 800px;
+    margin:0 auto;
+}
+
+#demo {
+    background:#F0F0F0;
+    padding:10px;
+}
+
+#desc {
+    border:1px solid #D8D8D8;
+    padding:8px;
+    font-weight:bold;
+    margin-bottom:20px;
+}
+</style>
+</script>
+</head>
+<body>
+<div id="main">
+<h1>fhconvert plugin</h1>
+<div id="head">
+    値を半角 → 全角、 全角 → 半角等に変換するプラグイン。<br />
+    blur等と組合せての利用を推奨
+</div>
+<div id="demo">
+    <div id="desc">
+        blurに各種変換をくわえるサンプル
+    </div>
+    <strong>オブジェクトで指定</strong>
+    <br />
+フォーカスが外れると全角になる。
+<input class="fhconvert" type="text" data-fhconvert='{"type": "htof"}' />
+<br />
+フォーカスが外れると全角になる。(スペース含まず)
+<input class="fhconvert" type="text" data-fhconvert='{"type": "htof", "option": {"space":false}}' />
+<br />
+フォーカスが外れると半角になる。
+<input class="fhconvert" type="text" data-fhconvert='{"type": "ftoh"}' />
+<br />
+フォーカスが外れると半角になる。
+<input class="fhconvert" type="PASSWORD" data-fhconvert='{"type": "ftoh"}' />
+<br />
+フォーカスが外れるとカナになる。
+<input class="fhconvert" type="text" data-fhconvert='{"type": "hgtokk"}' />
+<br />
+データ属性を指定しない。
+<input class="fhconvert" type="text" />
+<br />
+<br />
+<hr />
+<strong>文字列で指定</strong>
+<br />
+フォーカスが外れると全角になる。
+<input class="fhconvert" type="text" data-fhconvert='htof' />
+<hr />
+<strong>複数指定 文字列</strong>
+<br />
+ひらがな → カナ と 半角カナ → 全角カナを両方行う。
+<input class="fhconvert" type="text" id="array" data-hoge='[muga1, muga2]' data-fhconvert='["hkktofkk", "hgtokk"]' />
+<hr />
+<strong>inputではなく上位のdivで指定</strong>
+<br />
+フォーカスが外れるとカナになる。
+<div class="fhconvert" data-fhconvert="hgtokk">
+<input type="text" />
+</div>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,25 @@
+CREATE TABLE MF0116 
+   (
+	id int primary key,
+	ALAN8 int, 
+	ALEFTB int(6), 
+	ALEFTF varchar(1), 
+	ALADD1 varchar(40), 
+	ALADD2 varchar(40), 
+	ALADD3 varchar(40), 
+	ALADD4 varchar(40), 
+	ALADDZ varchar(12), 
+	ALCTY1 varchar(25), 
+	ALCOUN varchar(25), 
+	ALADDS varchar(3), 
+	ALCRTE varchar(4), 
+	ALBKML varchar(2), 
+	ALCTR varchar(3), 
+	ALUSER varchar(10), 
+	ALPID varchar(10), 
+	ALUPMJ int(6), 
+	ALJOBN varchar(10), 
+	ALUPMT int, 
+	ALSYNCS int, 
+	ALCAAD int
+   ) 
