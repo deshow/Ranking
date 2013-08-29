@@ -7,7 +7,6 @@
 </h1>
 	<?php
 	echo '<table>';
-	$stPage = 0;
 	$count = 10;
 	$rank = 0;
 	$loop = 1;
@@ -22,20 +21,27 @@
 		$doc = new DOMDocument();
 		@$doc->loadHTML($vv);
 		$books = $doc->getElementsByTagName('img');
+		$t = 0;
 		foreach($books as $book)
 		{
+			if($t == $count){
+				break;
+			}
 			if($book->getAttribute('class') == 'cover-image' && $book->getAttribute('alt') != ''){
 				$rank++;
 				echo '<tr>';
 				echo '<td width=10>'.$rank.'</td>';
 				echo '<td width=500>'.$book->getAttribute('alt').'</td>';
 				echo '</tr>';
+				$title = $book->getAttribute('alt');
+				Ranking::model()->create($rank,$title ,2);
 			}
+			$t++;
 		}
 	}
 	echo '</table>';
 	echo '</br>';
-	$limit = 60;
+	$limit = 10;
 	echo '<table>';
 	echo '<tr><td width=10></td><td td width=500><b>'.'AppStore Game Top Selling '.$limit.'</b></br></td></tr>';
 	$filename = 'https://itunes.apple.com/jp/rss/toppaidapplications/limit='.$limit.'/genre=6014/xml';
@@ -52,8 +58,7 @@
 				echo '<tr>';
 				echo '<td width=10>'.$rank."</td>";
 				echo '<td width=500>'.$target.'</td>';
-				//Ranking::model()->create($rank, $target);
-				
+				Ranking::model()->create($rank, $target,1);
 				echo '</tr>';
 			}
 		}

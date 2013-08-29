@@ -102,7 +102,7 @@ class Ranking extends CActiveRecord
 			'criteria'=>$criteria,
 		));
 	}
-	public function create($rnk,$title)
+	public function create($rnk,$title,$dtr)
 	{
 		$date = date('Y-m-d');
 		$arr = explode('-', $date);
@@ -110,7 +110,7 @@ class Ranking extends CActiveRecord
 		$mm = (int)$arr[1];
 		$dd = (int)$arr[2];
 		$t = (string)$title;
-		$target = $this->findByAttributes(array('nm'=>$t,'yy'=>$yy,'mm'=>$mm,'dd'=>$dd));
+		$target = $this->findByAttributes(array('nm'=>$t,'yy'=>$yy,'mm'=>$mm,'dd'=>$dd,'dtr'=>$dtr));
 		if(!isset($target)){
 			$target = new Ranking();
 			$target->nm = $title;

@@ -148,18 +148,12 @@ class RankingController extends Controller
 		$arr = CJSON::decode($string);
 		*/
 		$arr['cols'] = array();
-		array_push($arr['cols'],array('id'=>'1','lable'=>'Topping','pattern'=>'','type'=>'string'));
-		array_push($arr['cols'],array('id'=>'2','lable'=>'Slices','pattern'=>'','type'=>'number'));
-		array_push($arr['cols'],array('id'=>'3','lable'=>'a','pattern'=>'','type'=>'number'));
-		
-		/*
-		$arr['rows'][0] = array('c' => array(array('v' => 'first'), array('v' => 333)));
-		$arr['rows'][1] = array('c' => array(array('v' => 'second'), array('v' => 66)));
-		*/
+		array_push($arr['cols'],array('label'=>'Title','type'=>'string'));
+		array_push($arr['cols'],array('label'=>'AppStore','type'=>'number'));
+		array_push($arr['cols'],array('label'=>'GooglePlay','type'=>'number'));
 		$arr['rows'] = array();
-		array_push($arr['rows'],array('c' => array(array('v' => 'third'), array('v' => 222),array('v' => -33))));
-		array_push($arr['rows'],array('c' => array(array('v' => 'third'), array('v' => 222),array('v' => 33))));
-		
+		array_push($arr['rows'],array('c' => array(array('v' => 'first'), array('v' => 444),array('v' => -33))));
+		array_push($arr['rows'],array('c' => array(array('v' => 'second'), array('v' => 31),array('v' => 33))));
 		$str = CJSON::encode($arr);
 		echo $str;
 	}
@@ -189,7 +183,6 @@ class RankingController extends Controller
 				      ]
 				}';
 		$arr = CJSON::decode($string);
-		print_r($arr);
 	}
 
 	/**
