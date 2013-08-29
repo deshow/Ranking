@@ -118,16 +118,78 @@ class RankingController extends Controller
 		if(!isset($_GET['ajax']))
 			$this->redirect(isset($_POST['returnUrl']) ? $_POST['returnUrl'] : array('admin'));
 	}
+	public function actionGetdata(){
+		/*
+		$string = '{
+				  "cols": [
+				        {"id":"","label":"Topping","pattern":"","type":"string"},
+				        {"id":"","label":"Slices","pattern":"","type":"number"}
+				      ]
+				      ,
+				  "rows": [
+				        {"c":
+				        	[
+				        		{"v":"Mushrooms",
+				        			"f":null
+				        		},
+				        		{"v":3,
+				        			"f":null
+				        		}
+				        	]
+				        },
+				        
+				        
+				        {"c":[{"v":"Onions","f":null},{"v":1,"f":null}]},
+				        {"c":[{"v":"Olives","f":null},{"v":1,"f":null}]},
+				        {"c":[{"v":"Zucchini","f":null},{"v":1,"f":null}]},
+				        {"c":[{"v":"Pepperoni","f":null},{"v":2,"f":null}]}
+				      ]
+				}';
+		$arr = CJSON::decode($string);
+		*/
+		$arr['cols'] = array();
+		array_push($arr['cols'],array('id'=>'1','lable'=>'Topping','pattern'=>'','type'=>'string'));
+		array_push($arr['cols'],array('id'=>'2','lable'=>'Slices','pattern'=>'','type'=>'number'));
+		array_push($arr['cols'],array('id'=>'3','lable'=>'a','pattern'=>'','type'=>'number'));
+		
+		/*
+		$arr['rows'][0] = array('c' => array(array('v' => 'first'), array('v' => 333)));
+		$arr['rows'][1] = array('c' => array(array('v' => 'second'), array('v' => 66)));
+		*/
+		$arr['rows'] = array();
+		array_push($arr['rows'],array('c' => array(array('v' => 'third'), array('v' => 222),array('v' => -33))));
+		array_push($arr['rows'],array('c' => array(array('v' => 'third'), array('v' => 222),array('v' => 33))));
+		
+		$str = CJSON::encode($arr);
+		echo $str;
+	}
 
 	/**
 	 * Lists all models.
 	 */
 	public function actionIndex()
 	{
+		
 		$dataProvider=new CActiveDataProvider('Ranking');
 		$this->render('index',array(
 			'dataProvider'=>$dataProvider,
 		));
+		$string = '{
+				  "cols": [
+				        {"id":"","label":"Topping","pattern":"","type":"string"},
+				        {"id":"","label":"Slices","pattern":"","type":"number"}
+				      ],
+				  "rows": [
+				        {"c":
+				        	[{"v":"Mushrooms","f":null},{"v":3,"f":null}]},
+				        {"c":[{"v":"Onions","f":null},{"v":1,"f":null}]},
+				        {"c":[{"v":"Olives","f":null},{"v":1,"f":null}]},
+				        {"c":[{"v":"Zucchini","f":null},{"v":1,"f":null}]},
+				        {"c":[{"v":"Pepperoni","f":null},{"v":2,"f":null}]}
+				      ]
+				}';
+		$arr = CJSON::decode($string);
+		print_r($arr);
 	}
 
 	/**

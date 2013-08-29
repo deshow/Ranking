@@ -8,11 +8,11 @@ $rs = $cs->registerCssFile($baseUrl.'/css/ms.css');
 $cs->registerScriptFile($baseUrl.'/js/JQueryFormPlugin.js');
 $cs->registerScriptFile($baseUrl.'/js/fhconvert.js');
 $cs->registerScriptFile($baseUrl.'/js/jquery.formtips.1.2.6.js');
-$cs->registerScriptFile($baseUrl.'/js/ranking.js');
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 <meta name="language" content="en" />

@@ -1,15 +1,13 @@
 <?php
-class Park extends CWidget
+class Park extends CTabView
 {
-	protected function registerClientScript()
+	public function init()
 	{
-		/*
-		$cs=Yii::app()->clientScript;
-		$cssfile=dirname(__FILE__).DIRECTORY_SEPARATOR.'park.css';
-		$jsfile=dirname(__FILE__).DIRECTORY_SEPARATOR.'park.js';
-		$cs->registerCssFile($cssfile);
-		$cs->registerScriptFile($jsfile);
-		*/
+		$assetsDir=dirname(__FILE__).DIRECTORY_SEPARATOR.'assets';
+		$assetsDir=Yii::app()->getAssetManager()->publish($assetsDir);
+		$cs = Yii::app()->clientScript;
+		$cs->registerScriptFile($assetsDir.'/js/park.js',CClientScript::POS_END);
+		return parent::init();
 	}
 	public function run()
 	{

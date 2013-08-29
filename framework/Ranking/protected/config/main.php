@@ -5,7 +5,7 @@
 // This is the main Web application configuration. Any writable
 // CWebApplication properties can be configured here.
 date_default_timezone_set('Asia/Tokyo');
-Yii::setPathOfAlias('chartjs', dirname(__FILE__).'/../extensions/yii-chartjs');
+Yii::setPathOfAlias('park', dirname(__FILE__).'/../extensions/park');
 return array(
 	'defaultController'=>'site',
 	'basePath'=>dirname(__FILE__).DIRECTORY_SEPARATOR.'..',
