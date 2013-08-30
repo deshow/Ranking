@@ -149,11 +149,26 @@ class RankingController extends Controller
 		*/
 		$arr['cols'] = array();
 		array_push($arr['cols'],array('label'=>'Title','type'=>'string'));
-		array_push($arr['cols'],array('label'=>'AppStore','type'=>'number'));
-		array_push($arr['cols'],array('label'=>'GooglePlay','type'=>'number'));
+		array_push($arr['cols'],array('label'=>'Rank','type'=>'number'));
+		array_push($arr['cols'],array('label'=>'Price','type'=>'number'));
+		//$arr['rows'] = array();
+		$date = date('Y-m-d');
+		$tr = explode('-', $date);
+		$yy = (int)$tr[0];
+		$mm = (int)$tr[1];
+		$dd = (int)$tr[2];
+		$rs = Ranking::model()->findAllByAttributes(array('yy'=>$yy,'mm'=>$mm,'dd'=>$dd,'dtr'=>1));
 		$arr['rows'] = array();
+		foreach($rs as $model){
+			$title = $model->nm;
+			$rank = (int)$model->rnk;
+			$price = (int)$model->price;
+			array_push($arr['rows'],array('c' => array(array('v' => $title), array('v' => $rank),array('v' => $price))));
+		}
+		/*
 		array_push($arr['rows'],array('c' => array(array('v' => 'first'), array('v' => 444),array('v' => -33))));
 		array_push($arr['rows'],array('c' => array(array('v' => 'second'), array('v' => 31),array('v' => 33))));
+		*/
 		$str = CJSON::encode($arr);
 		echo $str;
 	}

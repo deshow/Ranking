@@ -21,14 +21,26 @@
         // Instantiate and draw our chart, passing in some options.
         var chart = new google.visualization.ColumnChart(document.getElementById('chart_div1'));
         chart.draw(data, {width: 400, height: 240});
-        var chart = new google.visualization.PieChart(document.getElementById('chart_div2'));
+        var chart = new google.visualization.BarChart(document.getElementById('chart_div2'));
+        chart.draw(data, {width: 400, height: 240});
+        var chart = new google.visualization.LineChart(document.getElementById('chart_div3'));
+        chart.draw(data, {width: 400, height: 240});
+        var chart = new google.visualization.PieChart(document.getElementById('chart_div4'));
         chart.draw(data, {width: 400, height: 240});
 	}
     </script>
   </head>
   <body>
     <!--Div that will hold the pie chart-->
-    <div id="chart_div1"></div>
-    <div id="chart_div2"></div>
+    <table>
+    <tr>
+    	<td><div id="chart_div1"></div></td>
+    	<td><div id="chart_div2"></div></td>
+    </tr>
+    <tr>
+    	<td><div id="chart_div3"></div></td>
+    	<td><div id="chart_div4"></div></td>
+    </tr>
+    </table>
   </body>
 </html>

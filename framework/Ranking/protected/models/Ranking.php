@@ -48,7 +48,7 @@ class Ranking extends CActiveRecord
 			array('ctr', 'length', 'max'=>2),
 			// The following rule is used by search().
 			// Please remove those attributes that should not be searched.
-			array('id, nm, val, rnk, rg, ctr, create_time,yy,mm,dd', 'safe', 'on'=>'search'),
+			array('id, nm, val, rnk, rg, ctr, create_time,yy,mm,dd,dtr,price,currency', 'safe', 'on'=>'search'),
 		);
 	}
 
@@ -96,31 +96,25 @@ class Ranking extends CActiveRecord
 		$criteria->compare('rnk',$this->rnk);
 		$criteria->compare('rg',$this->rg,true);
 		$criteria->compare('ctr',$this->ctr,true);
+		$criteria->compare('dtr',$this->ctr,true);
 		$criteria->compare('create_time',$this->create_time,true);
 
 		return new CActiveDataProvider($this, array(
 			'criteria'=>$criteria,
 		));
 	}
-	public function create($rnk,$title,$dtr)
-	{
+	public function beforeSave(){
 		$date = date('Y-m-d');
 		$arr = explode('-', $date);
-		$yy = (int)$arr[0];
-		$mm = (int)$arr[1];
-		$dd = (int)$arr[2];
-		$t = (string)$title;
-		$target = $this->findByAttributes(array('nm'=>$t,'yy'=>$yy,'mm'=>$mm,'dd'=>$dd,'dtr'=>$dtr));
-		if(!isset($target)){
-			$target = new Ranking();
-			$target->nm = $title;
-			$target->rnk = $rnk;
-			$target->yy = $yy;
-			$target->mm = $mm;
-			$target->dd = $dd;
-			$rs = $target->validate();
-			$ss = $target->save();
+		$this->yy = (int)$arr[0];
+		$this->mm = (int)$arr[1];
+		$this->dd = (int)$arr[2];
+		$this->nm = (string)$this->nm;
+		$target = $this->findByAttributes(array('nm'=>$this->nm,'yy'=>$this->yy,'mm'=>$this->mm,'dd'=>$this->dd,'dtr'=>$this->dtr));
+		if(isset($target)){
+			return;
 		}
+		return parent::beforeSave();
 	}
 	
 }

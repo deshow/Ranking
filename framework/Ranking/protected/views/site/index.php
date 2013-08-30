@@ -1,5 +1,5 @@
 <h1>
-	<i> 
+	<i>
 	<?php 
 		echo "Welcome to Ranking board";
 	?>
@@ -27,6 +27,7 @@
 			if($t == $count){
 				break;
 			}
+			$ranking = new Ranking();
 			if($book->getAttribute('class') == 'cover-image' && $book->getAttribute('alt') != ''){
 				$rank++;
 				echo '<tr>';
@@ -34,7 +35,10 @@
 				echo '<td width=500>'.$book->getAttribute('alt').'</td>';
 				echo '</tr>';
 				$title = $book->getAttribute('alt');
-				Ranking::model()->create($rank,$title ,2);
+				$ranking->nm = $title;
+				$ranking->rnk = $rank;
+				$ranking->dtr = 2;
+				$ranking->save();
 			}
 			$t++;
 		}
@@ -51,17 +55,25 @@
 	foreach($roots->entry as $root ){
 		if($root->getName() == 'entry'){
 		$targets = $root->children('http://itunes.apple.com/rss');
+		$ranking = new Ranking();
 		foreach($targets as $target){
-			//echo $target->getName().'<br/>'; 
 			if($target->getName()=='name'){
 				$rank++;
 				echo '<tr>';
 				echo '<td width=10>'.$rank."</td>";
 				echo '<td width=500>'.$target.'</td>';
-				Ranking::model()->create($rank, $target,1);
 				echo '</tr>';
+				$ranking->rnk = $rank;
+				$ranking->nm = $target;
+				$ranking->dtr = 1;
+			}
+			if($target->getName()=='price'){
+				$arr = $target->attributes();
+				$ranking->price = $arr['amount'];
+				$ranking->currency = $arr['currency'];
 			}
 		}
+		$ranking->save();
 	}
 	}
 	echo '</table>';
