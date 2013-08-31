@@ -54,7 +54,7 @@ $cs->registerScriptFile($baseUrl.'/js/jquery.formtips.1.2.6.js');
 			$this->widget('application.extensions.mbmenu.MbMenu',array(
             'items'=>array(
 				array('label'=>'home','url'=>array('/site/index')),
-				array('label'=>'chart', 'url'=>array('/ranking/index')),
+				array('label'=>'chart', 'url'=>array('/site/chart')),
 				array('label'=>'login','url'=>array('/site/login'), 'visible'=>Yii::app()->user->isGuest),
 				array('label'=>'manage', 'url'=>array('/ranking/admin'), 'visible'=>Yii::app()->user->getRole() > 1),
 				array('label'=>'user', 'url'=>array('/user/index'), 'visible'=>Yii::app()->user->getRole() > 2),
