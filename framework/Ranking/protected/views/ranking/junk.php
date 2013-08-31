@@ -160,9 +160,8 @@ return array(
 	// using Yii::app()->params['paramName']
 	'params'=>array(
 			// this is used in contact page
-			'adminEmail'=>'parkkumc@square-enix.com',
 			'languages'=>array(
 					'en'=>'English',
-					'ja'=>'譌･譛ｬ隱・)
+					'ja'=>'日本語')
 	),
 );
